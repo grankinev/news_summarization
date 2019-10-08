@@ -74,5 +74,5 @@ def googleparser (topic, depth):
 # In[6]:
 
 
-body, error = googleparser ('China', 2)
+
 
