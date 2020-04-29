@@ -1,0 +1,836 @@
+Story 0
+Auf deinem Konto finden sich wiederholte Abbuchungen von PayementWorld Europe und du fragst dich, wie du dieses Zahlungsverhältnis beendest? Hier erfährst du, wie du bei einer Kündigung vorgehen musst!
+PaymentWorld Europe ist ein in Europa lizensierter Zahlungsdienstleister. Er bietet verschiedene Zahlmethoden wie Kreditkartenabwicklung, SEPA-Lastschrift, PayPal und ähnliche Verfahren an. Firmen können PaymentWorld nutzen, um ihre Zahlungsabwicklungen im Online- oder Offline-Geschäft durchzuführen.
+PaymentWorld Europe kündigen – das musst du beachten
+Wenn dumöchtest, musst du zuerst überprüfen, wer dein eigentlicherist. Denn PaymentWorld Europe ist lediglichund fungiert alszwischen dir und dem Unternehmen, bei dem du einen Vertrag geschlossen hast. PaymentWorld Europe erscheint deshalb zwar in deinemals, hat mit deinemper se allerdings nichts zu tun.
+Überlege deshalb, bei welchem Anbieter du einen Vertrag geschlossen hast, der seine Zahlungsaufträge mit PaymentWorld Europe verwaltet.
+Falls du in deinen Vertragsunterlagen nichts Passendes findest, kannst du außerdem in deinen Kontoauszügen nachsehen, welche Daten zu den betreffenden Abbuchungen vorliegen. PaymentWorld Europe wird als Zahlungsdienstleister zuerst als Abbuchender erscheinen. In der zweiten Zeile steht dann das Unternehmen oder die Firma, von der die Zahlungen ausgehen. Ist dies nicht der Fall, kannst du PaymentWorld Europe kontaktieren. Über diesen Weg kannst du herausfinden, von wem die Abbuchungen veranlasst werden. Dazu kannst du das Kontaktformular auf der Website nutzen.
+Hast du herausgefunden, von welchem Anbieter die Belastung deines Kontos ausgeht? Dann kannst du den Vertrag fristgerecht kündigen, um die Zahlungen einzustellen. Überprüfe dafür deine Vertragsunterlagen und mache geforderte Frist und Form der Kündigung ausfindig.
+Hast du tatsächlich einen Vertrag mit PaymentWorld Europe direkt geschlossen, kannst du natürlich unser vorgefertigtes Formular für deine Kündigung verwenden. Mit einem Klick auf den obigen Banner gelangst du zu unserem vorformulierten und anwaltlich geprüften Schreiben.
+PaymentWorld Europe Adresse
+Abofalle Lottogemeinschaft
+Wir erfahren in letzter Zeit häufiger von Lottogemeinschaften und kostenpflichtigen Tippgemeinschaften, wie zum Beispiel Lottoboxx, die ihre Zahlungen über PaymentWorld Europe durchführen. Auch hier bringt es leider nichts, deine Kündigung an PaymentWorld Europe zu senden, da du mit dieser Firma keinen Vertrag geschlossen hast. Wende dich deshalb immer direkt an den Anbieter, um deine Kündigung einzureichen.
+Hast du die Kontaktdaten des Unternehmens vorliegen, möchtest aber keine Zeit mit dem Kündigen verschwenden? Für viele Anbieter bietet aboalarm einen schnellen und einfachen Kündigungsservice an. Dabei musst du lediglich unser vorgefertigtes und anwaltlich geprüftes Formular mit wenigen Daten ergänzen. Den Versand deiner Kündigung an den Anbieter übernimmt aboalarm für dich. Im Anschluss erhältst du die Versandbestätigung deiner Kündigung per E-Mail.
+Hast du es geschafft, deinen Vertrag fristgerecht zu kündigen, werden die Zahlungen zum Ende des Vertragsverhältnisses eingestellt, sofern keine weiteren Zahlungsaufforderungen vorliegen.
+Um in Zukunft vor Abofallen mit undurchsichtigen Geschäftsbedingungen gewarnt zu sein, wirf außerdem gerne einen Blick in unsere Artikel Abofallen im Internet: so erkennst du sie! oder Abofalle – kein Vertragsschluss nach Anruf.
+Betrugsmaschen über Zahlungsdienstleister via Lastschriftverfahren
+Wird nur ein einmaliger Betrag von deinem Konto abgebucht, du kannst dich aber weder an ein bestehendes Vertragsverhältnis, noch eine einmalig getätigte Transaktion in dieser Höhe erinnern? Dann kann es unter Umständen auch sein, dass du einer Betrugsmasche zum Opfer gefallen bist. Dabei sammeln Kriminelle deine Daten und nutzen sie, um an dein Geld zu gelangen. Denn um per Lastschrift Geld von einem Kontoinhaber abzubuchen genügt bereits die Bankverbindung und die Privatadresse. Außerdem ist es möglich, dass dubiose Firmen nicht rechtmäßige Zahlungsaufforderungen über Zahlungsdienstleister tätigen.
+Solltest du also eine nicht autorisierte Abbuchung von einem dir unbekannten Anbieter auf deinem Konto entdecken, kannst du diesem Einzug bei deiner Bank widersprechen. Anschließend kannst du das Geld dann zurückbuchen lassen. Die Frist dafür beträgt meist 6 Wochen. Behalte deshalb immer deine Kontobewegungen im Auge, um im Notfall von diesem Recht Gebrauch zu machen.
+Wir möchten darauf hinweisen, dass es sich bei unseren Artikeln lediglich um redaktionelle Inhalte zum Zwecke der Information handelt, die keinerlei Rechtsberatung oder ähnliches darstellen.
+
+Story 1
+INTERVIEW
+Interview with Bloomberg
+Interview with BenoÃ®t CÅurÃ©, Member of the Executive Board of the ECB, conducted by Jana Randow and Piotr Skolimowski on 10 October and published on 17 October 2019
+Mr CÅurÃ©, the working group on stablecoins youâve been chairing is expected to provide policy recommendations to G7 ministers on 17 October. What will be the gist of what youâre going to tell them?
+Itâs important to expand the discussion on global stablecoins to embrace the broader context of technological changes in payments so that we may have a wider discussion on the mix of solutions â both public and private â that can bring the benefits of technological improvements to the end users. Stablecoins are only one component of this discussion. They raise a multifaceted technological and regulatory debate, covering financial regulation and anti-money laundering, as well as non-financial issues such as privacy, data and taxes. Stablecoins also raise deeper public-policy issues, particularly regarding the definition of money and monetary sovereignty.
+The report offers a framework for exploring these and related topics. It helps to structure the discussion, starting with how global payments work, what the shortcomings are and how stablecoins fit into this discussion, before addressing a number of issues specifically related to global stablecoins.
+How important is it to tackle the issue jointly at the global level?
+Itâs essential that the discussion of global stablecoins is inclusive. If and when stablecoins become live and reach global scale, they will have a different impact in different jurisdictions. Scale is important here.
+What we want to see is international cooperation and coordination on regulatory approaches, potentially leading, as needed, to international standards â which we already have in some fields such as payments. All jurisdictions are now reviewing existing regulation to see how it applies to stablecoins. In Europe, the European Commission is carrying out this review. We will have to consider whether the existing regulations suffice or whether they will have to be adapted to address stablecoins.
+Thatâs why this discussion is also taking place at the G20 level, and I would argue it should go beyond the G20 perimeter so we can reach out to developing countries too. We very much count on the IMF and the World Bank to help us on that.
+Are any jurisdictions more vulnerable than others?
+The stakes are probably higher in small, open, developing economies. On the one hand, they may enjoy more potential benefits in the form of cheaper and faster payments, in particular for cross-border payments and remittances, and more financial inclusion. On the other, they may incur higher costs owing to the possible risks relating to monetary policy transmission and monetary sovereignty, in particular in economies which are partly dollarised. âDollarisationâ can easily morph into âstablecoinisationâ (with apologies for the neologism!). Weâre flagging this in the report and it deserves closer consideration, which in my view the IMF should lead.
+This is just the start of what looks like a long process of tackling the challenges of stablecoins. What would be the next immediate steps?
+The plan is to pass the baton to the Financial Stability Board (FSB). The FSB has launched a new working group on the regulatory implications of stablecoins, which I co-chair with Chia Der Jiun from the Monetary Authority of Singapore. This group will focus on regulatory frameworks and approaches, starting with a stocktake of how different jurisdictions intend to deal with stablecoins. This will feed into a report that will be submitted for public consultation in April 2020.
+Can you give us a flavour of the scope of the challenges stablecoin projects involve?
+The list of issues raised by all stablecoin projects is already quite long, as you know from our July report. They relate to legal certainty â to put it simply, on what or whom is the stablecoin a claim â and also to the governance and the architecture of each project. Other aspects have to do with compliance with money laundering and anti-terrorism financing rules and the question of whether a stablecoin payment system is safe and efficient enough. We can use existing international standards as a reference in this regard.
+Then there are issues related to operational resilience and cybersecurity, market integrity and investor protection, and data protection, particularly segregation between payment data and data being produced in a social network. And you have issues with tax compliance.
+Whenever these projects are based on existing global networks, thereâs a chance that they may reach a critical size very quickly, which raises additional potential issues relating to financial stability, monetary policy and the functioning of the international monetary system.
+According to Kenneth Rogoff, some prominent central banker told him the goal is to regulate Libra into oblivion. Is that a sentiment you share?
+The G7 report is not technology-specific and it is not company-specific. There are different stablecoin projects and there will be new ones. We want to set principles that are applicable to all. Itâs too early in the process to say whether individual projects will meet these principles.
+There is certainly no judgement that stablecoins shouldnât exist. In the case of Europe, neither the Commission nor the ECB intend to make Europe a no-fly zone for stablecoins. But stablecoins will have to meet the highest regulatory standards and adhere to broader public policy goals. When we talk about peopleâs money, there is no trade-off between innovation and safety. We want to see both, as we do for any payment instrument.
+Depending on the design and the details of each stablecoin initiative, the approval would be contingent on meeting the highest existing standards. It might also require new regulations and be contingent on adherence to broader public-policy goals. The bottom line is that the bar will be very high and itâs too early to tell whether it will be reached.
+Are there any projects that might be easier to handle than others?
+I see substantial differences between projects aimed at retail participants and those confined to the wholesale world. Itâs more likely in my view that existing regulations would broadly apply to wholesale projects rather than to retail projects. But itâs all very tentative and thereâs no conclusion yet.
+With Libra, weâre looking at a player thatâll dominate the market. Is that a concern you have?
+In the discussion on fintech regulation weâve been accustomed to discussing small-scale projects. By and large, until recently, weâve taken a sandbox approach to fintech regulation under which we could afford to give projects a chance and see how risks materialise. Thatâs possible when the project is small enough. But now we have an elephant in the sandbox. So that approach doesnât work anymore.
+What happens if the coin reaches a global scale? You have questions relating to the fair use of client data and to possible services that may not be planned initially, but could develop in the ecosystem, like what happens if a deposit-taking or lending activity emerges around the stablecoin, in which case it should be regulated as banking activity.
+Are we then at the beginning of an historic shift in our approach toward money and payments?
+The payment universe, both locally and globally, has evolved very rapidly over the past five years. The last wave of technological change in payments was 20 years ago when central banks introduced real-time gross settlement systems (in our case, TARGET followed by TARGET2). The new wave is more focused on retail payments and driven by technology.
+Before passing any judgement, we have to start from the principle that innovation is good because it makes payments cheaper and faster. Thatâs an area where weâre learning a great deal from our African and Latin American colleagues. Thereâs a lot of leapfrogging toward innovative solutions. In the end, the new landscape will be a mix of public and private solutions.
+So the key question for the years to come is how to combine core public infrastructures like the ECBâs fast payment platform, TIPS, with private systems, and what impulse central banks can give to make this happen in an integrated way. This is a particular challenge in Europe where the retail payment world remains fragmented along national lines. The Eurosystem is working on it. Weâd better act fast here, because we donât want this new world of payments to be dominated solely by US and Chinese actors. Europe has a particular interest in developing its own approach and standards so it can be safe and efficient at home and attractive as an international reference.
+How do stablecoins, private and public, fit into this discussion?
+Stablecoins have the potential to leverage technological change to bring new and cheaper services to customers â provided that the long list of risks I highlighted is addressed properly. Youâre asking me whether a public stablecoin will also fit into this landscape. Thatâs an area where weâre treading very carefully because the prospects differ across jurisdictions. Central bank digital currencies (CBDCs) raise a number of serious questions to which we donât yet have answers. Although they might look like an attractive proposition for individuals wishing to reap the benefits of technology while holding a safe store of value, they may have shortcomings of their own: there are many ways to implement CBDCs, which we need to study carefully. If they make bank funding more fragile and more vulnerable to liquidity shocks and bank runs, then they might be bad for financial stability and financial intermediation. Central banks shouldnât have their heads in the sand and avoid that discussion. At the same time, we have to think through the consequences.
+If people have access to digital central bank money, isnât the central bank entering an unfair competition with the private sector?
+If the demand for cash in a country collapses, citizens would be left with no option but to use commercial money, even for small payments. Thereâs a good case to be made that citizens should be offered the option of using central bank money for small payments, even in a digital world. You have an overarching public-policy goal, which is trust in the currency. But again, we have to think through the consequences. As long as CBDCs are using new technologies to do what we already do â issuing money â in a more cost-effective way, Iâm all for it. But if that implies a world where the central bank is crowding out private banks and attracting all deposits; a world where the central bank is disintermediating private financial intermediation, then that would not be a place where we want to be, because weâre a market economy and we need competition to generate innovation in the first place.
+All those arguments taken into account, are CBDCs part of our financial future?
+Iâm personally pretty sure CBDCs will come. I donât know how and in which form. It may come in different ways in different jurisdictions. The nature of money will change. Itâs not the first time this is happening â the nature of money has kept changing over the centuries. Weâve got to adapt so we can reap the benefits of technology. But the principles wonât change. Iâm convinced that one key evolution that dates back to the 17th century will remain: you need a public institution to anchor trust in the currency. I donât see any chance that we will move back to a system where money will only be issued by commercial entities and regulated by competition between these entities. Our economies are so complex that you need trust in the currency to be anchored in the rule of law. A social convention isnât enough. Itâs too fragile. That doesnât mean everything needs to be public. To echo Ludwig Erhard, you need as much commercial money as possible to reap the benefits of innovation and competition, and you need as much public money as needed to anchor the trust in the currency.
+
+Story 2
+Source: Token
+Turnkey open banking platform provider Token today announces that it is enabling Paymentworld Europe Ltd. to provide a bank direct payments facility to its business and consumer customers.
+Paymentworld’s portfolio of payment services includes a payment gateway with 400+ payment options in 160 countries, an EWallet that enables B2B, B2C and C2C transactions, independent payment processing and value-added services such as loyalty and bonus programmes.
+
+Integration with Token’s platform benefits Paymentworld’s gateway customers by enabling bank direct payments and lowering the cost of transactions - as well as being a chargeback-free solution when used at checkout. It also improves the end-user experience by allowing individuals and merchants to make payments and check their balance in-app, without redirecting to banking portals.
+
+Jens Podewski, CEO, MD and Founder of Paymentworld, explains, “Our aim is to enable our customers to quickly and easily initiate and receive payments in whatever form best suits them, wherever they are in the world. Adding bank direct payments to our payment gateway and EWallet solutions via Token’s platform is the next logical step and establishes us as early market-leaders in the new era of open banking.”
+
+For businesses looking to maximise the opportunities offered by open banking, like Paymentworld, Token is the only open banking solution that covers the entire value chain. Unlike other service providers, Token has a single API to access all banks for payments and data. This enables Paymentworld to offer instant, bank direct payments to its customers and solves the integration pain being felt across the industry caused by multiple proprietary bank APIs. Additionally, its cloud-based Smart Token technology enables flexibility and scalability in creating and handling transactions by using a unique security model.
+
+Paymentworld has recently partnered with marketplace KAUFinBW.de (www.kaufinbw.de), which brings together local merchants and consumers in Baden-Wuerttemberg, Germany. Paymentworld’s EWallet will use Token to enable merchants that may not be eligible to onboard with traditional payment processors due to their start-up status, size or business model. This is a key benefit of open banking for these players because they no longer suffer a commercial penalty for being new to the game.
+
+Consumers that use the EWallet will be able to make payments without being redirected to banking portals, substantially improving their experience.
+
+“The marketplace already supports traditional payment methods, but the addition of Token’s bank- direct payments will be a game changer for merchants,” Podewski continues. “By providing them with access to instant, chargeback and risk-free payments without the need to follow restrictive card scheme rules, even cryptocurrencies can’t compete with this on flexibility or cost.”
+
+Marten Nelson, Co-Founder and CMO, Token, adds, “Our vision is to enable all transacting businesses to harness the power of open banking to simplify, accelerate and reduce the cost of transacting globally. Token is the shortest, fastest and least expensive path for banks, merchants and other financial service providers to expand into payments and data aggregation services via a single standardised open banking platform. Crucially, this platform also provides a great environment for third parties like Paymentworld, because these are the businesses that will make open banking really fly by creating the payment services that end-users want.”
+
+Story 3
+OK
+For optimum operation, this website makes use of cookies. For more information click here
+
+Story 4
+To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.
+Is this happening to you frequently? Please report it on our feedback forum.
+If you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.
+Reference ID:
+
+Story 5
+IBM and Ripple are already targeting centralized payment messages network, SWIFT. There are other players in the blockchain payment world.
+Corda Settler was launched in the past year by R3. The platform used Ripple’s XRP.
+SWIFT announced a partnership with R3 in January. They were collaborating to test the Corda Settler. They were focusing to “integrate gpi with Corda Settler.”
+The Corda Settler depends on the XRP and therefore SWIFT and Ripple as rivals get to indirect connection. Will, that work?
+Corda Settler focuses on providing companies with secure, fast and reliable ways in which they can move the crypto and other traditional assets on the distributed ledger. The Corda Settler is an open source app, which runs on the Corda Blockchain.
+With Ripple’s XRP as a base currency, the Dapp from Corda Settler will facilitate enterprise blockchain network. The payment transactions will be settled between cryptocurrency and traditional assets using enterprise blockchain. Therefore, Corda settler’s choice of XRP makes sense.
+Richard Gendal Brown, CTO at R3 stated, “The goal of widespread acceptance and usage of digital assets to transfer value can thus be achieved.”
+David Rutter, CEO of R3 stated, “The Corda Settler is agnostic to which payment method is used. Whether it’s JP Morgan coin, or Wells Fargo coin, or BAML coin, or HSBC coin, it doesn’t matter to us. We have no horse in that race.”
+He also previously clarified that they do not have financial incentives either this way or another. He implied that they were trying to get as many people as possible to their platform as possible.
+While in the primary stages of development, they are supporting all sorts of payments for settlement. Thus, indicating support for “any parallel rail supporting cryptocurrencies or other crypto assets.”
+Payment obligations are facilitated for cryptographic proof of settlement, vide traditional rail. It is expected for the settler to provide for “domestic deferred net settlement and real-time gross settlement payments” in the next phase.
+When a payment obligation arises, parties can now optionally require settlement using XRP. A settlement in XRP can be required. The other party gets notified, and they must instruct the payment to the required address before the particular deadline presented to them. After the payment is made, an Oracle service will verify the validity of the payment and will settle the obligation. The ledger will be updated after the beneficiary account has been credited with the expected payment.
+
+Story 6
+INDUSTRY INSIGHT
+The future of mobile payments in government
+The addition of near-field communication (NFC) chips to Apple’s iPhones and Watches opened the doors for broad-based deployment of the technology, which enables smartphones to exchange data with retailers’ contactless readers, moving us closer to a world in which credit cards are resident on our mobile phones, rather than in our wallets.
+And with mobile phone subscriptions worldwide approximately equaling the number of people on the planet – about 7 billion – it’s not much of a stretch to forecast that mobile phones will become the world’s primary financial transaction platform – even for government payments – in the not-too-distant future.
+For government agencies, mobile payment will be a significant development on several fronts, in part because it will increase convenience and efficiency for both citizens and the agencies themselves.
+Mobile payment readers someday will be commonplace in government offices, such as department of motor vehicle locations, where people will use their mobile devices to pay for license renewals.
+They are also likely to become an important part of the government identity authentication backbone. A smartphone enabled with NFC could allow employees to use their own phones as their access credential to get into a building or to log into networks.
+They will create even greater efficiencies in the field. An NFC credit card reader attached to a mobile device, for example, would allow a government inspector to accept and issue a permit payment on the spot, even if the inspection takes place in a remote location that doesn’t have land-line access.
+Potential public sector uses extend well beyond the realm of financial and identity transactions, however. The Drive Safely app, part of a public safety app development challenge last year, uses NFC to determine if a smartphone user is in the driver’s seat of a vehicle entering an intersection. If so, the app sends an auto reply message to incoming calls and texts while the vehicle is moving.
+Some states are exploring mobile pay, as well. Idaho, for example, already is using equipment that enables true remote payment processing through a store-and-forward capability, even when wireless access is unavailable.
+Apple already has announced plans to bring its mobile pay system to certain government-owned parks and government-issued credit cards before year-end.
+An endorsement by the federal government and increasing uses of the technology by state and local governments may provide the push necessary for the public to adopt mobile as a standard method of making payments. This, in turn, will open doors to additional government agencies adopting NFC-based mobile payments as part of their processes.
+Constituents will expect mobile pay
+Offering mobile payments as an option will increasingly become a sign of good customer service. Fewer and fewer constituents use paper checks to transact business with government, and mobile phones will diminish use of physical credit cards. Because that’s where the market is going, government needs to adapt to the use of electronic devices as currency.
+Mobile payments also have potential to provide greater security for users’ information than traditional credit cards do because they use the two-step chip-and-PIN system Europe has used for decades.
+When the user touches or waves a mobile phone by a reader, the NFC chip generates a one-time authorization code. The user then enters a PIN number or approves the transaction with a fingerprint, a more secure approach than using the information on a credit card’s magnetic stripe.
+In the consumer marketplace, a mobile payments war is underway. Merchant Customer Exchange, a company developed by a consortium of Best Buy, Target, Walmart and other large U.S. retailers, launched a merchant-owned mobile payment system in 2012. Called CurrentC, it uses a QR code scanning system rather than NFC technology, and its merchant members are forbidden from accepting ApplePay. Apple, likewise, prevents other payment systems from accessing its phones’ NFC chips.
+While government undoubtedly will have to offer mobile pay, it may be challenged to support all of the emerging – and yet-to-emerge – platforms. Because these systems leverage the same bank and credit card infrastructure that exists today, government likely will decide to accept a subset of the available platforms, just as it now might accept a Visa, but not a Kohl’s card.
+It will be important for government agencies to choose the platforms they will support based not only on which technologies are building momentum toward making physical wallets obsolete, but also on those that provide the greatest security.
+Even though the major players are reputable companies, government has specialized requirements for protecting citizen and business data. Agencies therefore must understand how mobile pay companies are collecting, handling, storing and using data they gather.
+Citizens who use government services might be rightly concerned, for example, if Apple collects individual data beyond what a traditional credit card company would collect. Government must evaluate the process from beginning to end to make sure it meets strict standards and keeps private information private.
+Agencies also must determine how each mobile pay system will integrate with its current infrastructure. If an agency’s back-end system isn’t equipped to accommodate mobile pay, the agency needs to determine what additional costs and workload it will incur before it commits to offering the service.
+We can’t completely foresee how mobile pay will evolve, but it eventually will have an impact on every government agency. Because it will change the way we all do business, agencies need to put away assumptions, learn all they can and prepare to take advantage of its benefits.
+
+Story 7
+Amazon chief Jeff Bezos pledged Thursday the US technology and retail giant would become carbon neutral by 2040 and encourage other firms to do the same, in a bid to help meet the goals of the Paris climate accord 10 years early.
+"We want to use our scope and our scale to lead the way," Bezos told a news conference in the US capital, aiming to shake off the firm's reputation as a laggard on environmental issues.
+Amazon announced its "Climate Pledge" initiative and said it would be its first signatory as part of an effort to reduce emissions in line with a 2050 goal for carbon neutrality set by the Paris agreement.
+"We're done being in the middle of the herd on this issue," Bezos said.
+"If a company with as much physical infrastructure as Amazon -- which delivers more than 10 billion items a year -- can meet the Paris agreement 10 years early, then any company can."
+Bezos said he had spoken with other CEOs of global companies, and noted "I'm finding a lot of interest in joining the pledge."
+As part of the ramped-up effort, Bezos said Amazon had agreed to purchase 100,000 electric delivery vans from vehicle startup Rivian, to help cut its carbon footprint. Amazon previously announced a $440 million investment in Rivian.
+The first vans will hit the road in 2021, with the fleet to be fully operational in 2030. Amazon also pledged to invest $100 million on reforestation efforts in cooperation with the Nature Conservancy.
+Climate action advances
+Bezos's announcement came the day before a global day of demonstrations to demand action on climate change, ahead of a UN summit on zero-emissions on September 23.
+Amazon faces mounting pressure to address its environmental impact, with more than 1,000 of its workers planning to walk off the job Friday as part of the Global Climate Strike.
+Asked about the Amazon employees set to join the strike, Bezos called it "totally understandable."
+"People are passionate about this issue," he said. "Everybody in this room should be passionate about this issue."
+Bezos was joined by Christiana Figueres, the former UN climate chief and founder of the climate activist group Global Optimism.
+"With this step, Amazon also helps many other companies to accelerate their own decarbonization," Figueres said.
+"If Amazon can set ambitious goals like this and make significant changes at their scale, we think many more companies should be able to do the same and will accept the challenge. We are excited to have others join."
+Bezos said he expects Amazon to reach a goal of 80 percent renewable energy use by 2024, up from around 40 percent today, and 100 percent renewable energy by 2030 on a path to net zero carbon by 2040.
+This will involve investments in wind and solar energy projects and initiatives to curb carbon emissions at its facilities including the second headquarters, HQ2, just outside the US capital.
+Bezos said that Amazon's move to speedier shipping, including one-day delivery on many items, would be a net positive in environment terms even though it was "counterintuitive."
+"The reason is, that once you get to one day and same day, you can't really do it by air transportation anymore," he said.
+This means keeping warehouses and products closer to the consumer and as a result "you're actually transporting the products in a very efficient way, a very short distance," which becomes less carbon-intensive, he said.
+Washington, United States | AFP
+
+Story 8
+comdirect | Kostenloses Girokonto & 75 Euro Prämie mit Apple Pay / Google Pay *
+Comdirect-Login: So meldet ihr euch bei Comdirect an
+Die Comdirect-Bank ist eine der größten deutschen Direktbanken. Als solche bietet Comdirect natürlich online einen Login, um das Konto, Zahlungen und Depots zu verwalten. So funktioniert der Comdirect-Login:
+Öffnet die Comdirect-Seite in einem neuen Tab und klickt oben rechts auf Login. Gebt nun eure Zugangsnummer sowie die dazugehörige PIN in die entsprechenden Felder ein.
+Optional könnt ihr im Dropdown-Menü auswählen, wo ihr nach dem Login landen wollt (Kontoumsätze, Überweisung etc.), alternativ landet ihr einfach im Persönlichen Bereich. Klickt zum Schluss auf die Schaltfläche Anmelden und ihr werdet direkt zur ausgewählten Seite weitergeleitet.
+comdirect | Kostenloses Girokonto & 75 Euro Prämie mit Apple Pay / Google Pay *
+Hinweis: Beim Comdirect-Login könnt ihr alternativ auch euren Benutzernamen und das dazugehörige Passwort eingeben, wenn ihr dies registriert habt. Hiermit könnt ihr jedoch nur auf den „Meine comdirect“-Bereich zugreifen, also beispielsweise eure Startseite und Musterdepots einsehen sowie einige der weiteren Tools nutzen. Für den Zugriff auf das Konto selbst, benötigt ihr zwingend die achtstellige Zugangsnummer und die dazugehörige PIN.
+Im Login-Bereich von comdirect, weißt die Direktbank auch immer auf aktuelle Betrugsmaschen hin. So rät die Bank niemals auf E-Mails zu reagieren, die euch zum Login auffordern oder Zahlungsaufforderungen per Anruf nachzugehen. Wenn ihr eine E-Mail oder einen Anruf erhaltet, geht nicht auf die Angaben ein und klickt nicht auf die Links. In solchen Fällen solltet ihr euch direkt an den Kundenservice der Comdirect-Bank unter der Nummer 04106 - 708 25 00 wenden.
+Bilderstrecke starten
+11 Bilder
+Comdirect-Login geht nicht? So löst ihr Probleme
+Eventuell gibt es Probleme mit dem Comdirect-Login und ihr könnt euch nicht mit euren Zugangsdaten einloggen. In diesem Fall könnt ihr die folgenden Lösungswege ausprobieren:
+Achtet zunächst darauf, dass ihr alles richtig eingegeben habt – hier können einem leicht Flüchtigkeitsfehler unterlaufen.
+Wichtig ist vor allem, dass ihr Groß- und Kleinschreibung bei der Eingabe der Passwörter beachtet.
+Wenn eure PIN drei mal falsch eingegeben wird, wird das Konto vorübergehend gesperrt. In diesem Fall müsst ihr euch an den Kundenservice der comdirect wenden.
+Möglicherweise ist der Online-Bereich der Comdirect-Bank aber auch gerade down oder es liegen Störungen vor. Auf der Webseite allestörungen.de könnt ihr dies überprüfen.
+Bitte zahlen! Aber wie?
+Neue und bekannte Zahlungsarten buhlen um die Gunst der Kunden am PoS (Point of Sale) – welchen Erfolg haben sie bei dir?
+
+Story 9
+acquiring.com, Secure Trading Group’s merchant acquirer, have today announced a brand-new partnership with Cybertonica, the award-winning fraud prevention and payment risk management company that uses machine learning and artificial intelligence to manage fraud, reduce basket drop-off and increase conversion for all channels of e-payments and transaction platforms.
+acquiring.com’s payment solutions will be bolstered by Cybertonica’s GoFrictionless product, a multi-factor cloud-based artificial intelligence and machine learning system that will empower acquiring.com’s clients to increase the share of accepted transactions at no additional risk, meanwhile reducing the cost of fraud and lowering chargeback rates.
+“At acquiring.com, combatting fraud and protecting merchants are paramount to our approach as an acquirer,” said Ryan Cachia, MD at acquiring.com. “Cybertonica’s risk management and fraud prevention suite of products enhance the way that we protect our international client-base by reducing chargebacks and identifying more potential threats before they can materialise. Cybertonica are an exciting company whose continuing innovation will propel acquiring.com towards even greater standards of protection for our customers. This combined solution once again solidifies acquiring.com in its growing leadership position in the EMEA acquiring market.”
+“Our fundamental mission here at Secure Trading is to be the driving force behind merchants’ commercial activity by powering their payments; Cybertonica’s AI-enabled tech will help facilitate this,” Daniel Holden, CEO of Secure Trading Group added. “We are looking forward to working with Cybertonica closely in the future to build bespoke products across different industry verticals including gaming, crypto and InsurTech.”
+“Cybertonica has delivered GDPR and PSD2 compliant, strong authentication technology that we are now bringing to the future of money and omni-channel payments,” said Joshua Bower-Saul, CEO and Co-Founder of Cybertonica. “Our new partnership with acquiring.com will help to strengthen the acquiring services they offer across multiple verticals and clients by arming them against sophisticated fraudsters with our innovative GoFrictionless product operating in a seamless way with their fraud team.”
+Cybertonica’s cloud-based platform also improves transactional data security and respects both the GDPR and PSD2 requirements for tomorrow’s payment world. It provides accurate authentication in less than a second, reducing declines of a traditional rule-based system while providing insights to customer behaviour and risk that increase conversion and provide updates and alerts through the customised dashboard. The Cybertonica team brings nearly 50 years combined fraud management experience so that the system is designed to improve fraud and operations management.
+
+Story 10
+Illustration:Luo Xuan/GT
+All opportunities come from contradictions and variations, as is the case with stocks - without rises and falls, no one would have the opportunity to make a profit. Therefore, it doesn't necessarily matter whether the market is currently on a downward spiral or an uptrend. So long as the contradictions and opportunities are identified, there will be ways to make money. The principal contradiction facing Chinese society now is the one between unbalanced and inadequate development and people's ever-growing needs for a better life, according to the report following the 19th National Congress of the Communist Party of China.A rising desire to purchase among people in lower-tier cities offers a good opportunity for China's supply-side imbalance to be addressed. The fact that daily necessities and clothing items are more expensive in some areas than in big cities is attributed to scattered consumption - supplying goods on a smaller scale creates multiple intermediate links, leading to higher costs for companies and thus higher prices in lower-tier cities.But things are changing. Beijing and South China's Guangdong Province have continued to be among the top regions witnessing inflows of people since 2010, but the population gains have fallen substantially compared with the previous 10 years. Meanwhile, Sichuan, Hubei and Guizhou provinces, which had long seen outflows, are now beginning to see population inflows instead.The nation has ramped up urbanization reforms over the past few decades. The urbanization rate is projected to hit 68.7 percent in 2030, up from 35.9 percent in 2000. The first phase of urbanization reforms has come to an end, highlighting the urbanization of peripheral rural areas of first- and second-tier cities. It's now come down to third- and fourth-tier cities, which are gaining a rising number of new residents. In previous relocation efforts, migrant workers who left their families behind would not consider their places of work as their homes, but the current household-based relocation effort shows a trend toward genuinely relocating their homes and spending most of their earnings on that. This points to a sea change in consumption structure.Also noteworthy is that the country's burgeoning middle classes hope to purchase a variety of products at competitive prices. This explains the emergence of e-commerce sites such as NetEase Yanxuan, Taobao Collection and Biyao.com. The middle classes are now able to go outside the country and can discern good products for themselves. They can no longer be easily hoodwinked into buying inferior products or paying a premium for top brands.Furthermore, people in lower-tier cities have lower levels of debt than those in first- and second-tier cities, mostly owing to home prices. This means they are willing to spend more.Along with the demographic and social changes, there has been a shift in internet industry structure. The internet's development in the country can be divided into three stages, with local businesses primarily learning from the US model in the first stage, and taking advantage of the country's demographic dividend to overtake the US in mobile internet services in the second stage.There is a theory regarding the internet: The value of a network is positively correlated to the square of its total users. From the outset of the third stage in 2014, WeChat has become the prerequisite for the development of new business models and the companies that have rapidly floated on the stock market.Many Chinese companies have expanded into overseas markets. The overseas push was initially shown to be typified by utility app and game developers led by Cheetah Mobile before extending to overseas shipments of devices and supply chains. Chinese phone maker Transsion Holdings' dominance in the African market is an example of homegrown brands catering to local markets. The phone maker derives its popularity from its face recognition specifically for dark-skinned people and the offering of phones with four SIM slots. This has now evolved into an overseas push for Chinese-born business models. Behind many companies that have international-sounding names and that are registered in places like Singapore or Bangkok, stand teams of Chinese entrepreneurs.Adding to the overseas drive is the prevalence of mobile gadgets, notably smartphones, across China, as well as the penetration of mobile payment into almost every corner of the country. An increasing number of elderly people have also become a part of the smartphone community and the mobile payment world.With the nation's urbanization rate expected to reach 68 percent by 2030, still a long way off the levels in the US and Japan, it is believed that there is immense potential for the economy to sustain its growth. If that is the case, whatever trade wars there might be, China doesn't need to be afraid, as China's market will be large enough to ensure self-sufficiency.The article was compiled based on a speech by Lang Chunhui, partner at Sinovation Ventures, at a strategy briefing on investment trends held in Beijing earlier in December. bizopinion@globaltimes.com.cn
+
+Story 11
+Hermes ist bei vielen eine beliebte Versandoption, da das Netz der Abgabestellen flächendeckend ist und die Preise akzeptabel sind. Allerdings gibt es auch reichlich Kritik am „Hermes Versand“. GIGA erklärt euch, was ihr tun könnt, um bei Hermes eine Beschwerde einzureichen.
+Einer der Hauptkritikpunkte an Hermes ist die teilweise langsame Geschwindigkeit des Pakettransports. Die hat unter anderem damit zu tun, dass die Hermes „PaketShops“ nicht jeden Tag geöffnet haben und auch nicht täglich angefahren werden. So kann ein Paket schon einmal ein paar Tage liegen, bevor es überhaupt den Ort verlässt. Andere Beschwerden betreffen die Zustellung selbst: Hier ist häufig die Rede von nicht zugestellten Paketen oder angeblich nicht angetroffenen Empfängern, obwohl man den ganzen Tag zu Hause war. In solchen Fällen solltet ihr bei Hermes Beschwerde einlegen. Wir erklären euch, wie das geht.
+Bilderstrecke starten
+16 Bilder
+Beschwerde bei Hermes einreichen: Hotline, Twitter, Kontaktformular
+Für jegliche Kontaktaufnahme, nicht nur für Beschwerden, hat Hermes ein Kontaktformular ins Netz gestellt. Dort könnt ihr aus dem Auswahlmenü unter anderem das Thema „Schaden und Verlust“ auswählen. Statt euch durch die verschiedenen Links zu hangeln, könnt ihr das Hermes-Schadens-Formular auch direkt erreichen.
+Alternativ könnt ihr die Hermes-Hotline telefonisch kontaktieren.
+Wenn ihr ein Twitter-Konto habt, könnt ihr bei Fragen und Beschwerden das Twitter-Konto von „Hermes Germany“ anschreiben.
+Nach 3 Wochen könnt ihr bei Hermes eine Verlustmeldung einreichen und dazu eine PDF-Verlustmeldung downloaden. Die muss dann per Post abgeschickt werden:
+Hermes Germany GmbH
+Kundenservice
+Postfach 62 02 60
+D-22419 Hamburg
+Bei jeder Hermes-Beschwerde solltet ihr wichtige Daten bereithalten, um das Verfahren zu beschleunigen. Dazu gehören:
+Quittungs-/Auftragsnummer
+Absender- und Empfängeradresse
+Sendungsinhalt und –wert
+Kopie der Abgabequittung
+Information zur Sendungsaufgabe (Datum, PaketShop-Adresse)
+Beschreibung der Verpackung
+Es hat sicher keinen Sinn, sich über die Geschwindigkeit des Pakettransports zu beschweren. Hermes selbst gibt auf seinen Seiten an, dass es ab dem Versand 3 Tage dauern kann, bis die Sendung ankommt. Mit „Versand“ ist aber vermutlich der Zeitpunkt gemeint, zu dem ein Fahrzeug das Paket beim PaketShop einlädt. Und zwischen Abgabe und Einladen des Pakets liegen häufig auch mehrere Tage.
+In der Hermes-Sendungsverfolgung könnt ihr normalerweise sehen, an welcher Etappe des Transportweges sich euer Paket befindet. Üblicherweise funktioniert das ganz gut und zeigt euch auch an, wann ihr mit dem Paket rechnen könnt. Wir erklären euch an anderer Stelle, was ihr tun könnt, wenn die Sendungsverfolgung von Hermes nicht funktioniert. Da ist es dann auch nicht sinnvoll, sofort eine Beschwerde an Herme zu richten, weil der Support auf solche Probleme keinen Einfluss nehmen kann.
+Umfrage: Refurbished oder Neuware?
+Ist es für euch in Ordnung, wenn das Smartphone-Display ein wenig verkratzt ist oder schon ein paar Gebrauchsspuren auf der Rückseite hat? Oder muss ein Artikel beim Kauf wirklich komplett neu sein?
+
+Story 12
+Visa Canada, a unit of Visa Inc.V , recently announced a strategic collaboration with Finn Al, to add new stimulus to its conversational banking chatbots and artificial intelligence (AI), powered by the Visa Developer Platform.
+With this partnership, the Vancouver-based fintech use Visa Developer Platform APIs would be able to enhance the conversational AI technology to provide a better and personalized experience to banks for interacting with customers. This facility would include re-imagining travel experience for cardholders.
+Customers will highly benefit from this technological breakthrough, courtesy of a steady virtual assistant always helping them with an easy process to ensure their cards' optimized value during their travel.
+From getting enlightened about foreign exchange rates at the airport to communicating with the hotel regarding their room preference, users will be able to avail of services at the touch of a button. Customers can even find the nearest ATMs as well as disable a misplaced card in order to protect themselves from fraudulent transactions. Overall, this move would help them enjoy a much more enriching experience by allowing them to access the best hotel and flight deals, flag fraudulent transactions, manage subscriptions, etc.
+Visa Canada expects to provide a dynamic and seamless digitally enabled experience to its customers with this collaboration.
+With Artificial Intelligence making a deep impact on the payment world, fraud detection has become much more effortless. Fraudulent transactions can be checked by applying a rule-based logic that allows transaction blocking to keep chances of forgery at bay. Additionally, interaction with customers is possible in a more personalized fashion with chatbots. This would also boost the payment authorization rates.
+Moreover, with AI in the payment process, customers would have frictionless check-out experiences with better security and new intelligent risk-based possibilities. Payment service providers use AI for better understanding their customers' behavior with a view to catering to their needs more efficiently and help them manage their finances more aptly. Visa is cashing in on all such beneficial tools in a big way.
+Companies like Mastercard Incorporated MA also dived into Artificial Intelligence of late. With the launch of AI Express, Mastercard will aid several companies to develop a tailored artificial intelligence model that answers real business questions.
+Shares of this Zacks Rank #3 (Hold) company have surged 42.5% in the past year, outperforming the industry 's growth of 39.1%.
+Stocks to Consider
+Investors interested in the Financial Transaction Services industry might take a look at some better-ranked stocks, namely Cardtronics plc CATM and WEX Inc. WEX , both sporting a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks #1 Rank stocks here .
+Cardtronics offers automated consumer financial services through its network of automated teller machines (ATMs) and multi-function financial services kiosks. The company managed to come up with an average four-quarter positive surprise of 27.17%.
+WEX offers corporate card payment solutions in North and South America, the Asia Pacific and Europe. In the past four quarters, it delivered an average beat of 2.56%.
+Today's Stocks from Zacks' Hottest Strategies
+It's hard to believe, even for us at Zacks. But while the market gained +21.9% in 2017, our top stock-picking screens have returned +115.0%, +109.3%, +104.9%, +98.6%, and +67.1%.
+And this outperformance has not just been a recent phenomenon. Over the years it has been remarkably consistent. From 2000 - 2017, the composite yearly average gain for these strategies has beaten the market more than 19X over. Maybe even more remarkable is the fact that we're willing to share their latest stocks with you without cost or obligation.
+See Them Free>>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Cardtronics PLC (CATM): Free Stock Analysis Report
+WEX Inc. (WEX): Free Stock Analysis Report
+Mastercard Incorporated (MA): Free Stock Analysis Report
+Visa Inc. (V): Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+Story 13
+Bei GIGA findet ihr zahlreiche Ratgeber zu spannenden Themen aus dem TECH-Bereich. Wir helfen euch bei Problemen, zeigen euch geheime Tricks und präsentieren informative Specials. Natürlich greifen wir euch auch gerne unter die Arme, wenn ihr mit eurem Smartphone nicht weiter wisst, das TV-Gerät spinnt oder der PC nicht tut, was er soll. Auch bei grundlegenden Fragen, die zum Alltag gehören, helfen wir euch weiter.
+Falls ihr vor einem unlösbaren Problem steht, schreibt uns gerne eine E-Mail an hilft@giga.de. Wir kümmern uns um eure Nöte und suchen nach einer schnellen Lösung für Schwierigkeiten am Rechner, Laptop, an der Konsole oder Tablet.
+Hilfreiche Ratgeber bei GIGA
+Hilfe gibt es bei uns auch in Fragen „WLAN“, zu coolen Gadgets und Multimedia-Themen. Auch der Bereich „Sicherheit“ wird bei uns großgeschrieben, sodass ihr bei uns zahlreiche Warnungen und Hinweise zu Betrügern im Netz findet. Weitere spannende Ratgeber zu Themen aus dem Leben findet ihr darüber hinaus bei unserem Partnerportal desired.de.
+Beliebte Ratgeber bei GIGA.de:
+Ratgeber-Video: Diese Tricks für WhatsApp sollte man kennen
+Ratgeber & Anleitungen auch in Videoform
+Neben leicht lesbaren Anleitungen in Textform wollen wir euch auch bei passenden Themen in Video-Formaten weiterhelfen. So müsst ihr euch nicht durch etwaige Textwüsten arbeiten, sondern bekommt die Lösung direkt zum Nachmachen dargestellt. Neben unseren hilfreichen Anleitungen findet ihr bei uns natürlich auch ausführliche Tests und Kaufberater, die euch den nächsten Gang zum Elektro-Fachgeschäft oder den anstehenden Online-Einlauf erleichtern sollen.
+Bildquelle: Rawpixel.com
+Umfrage: Refurbished oder Neuware?
+Ist es für euch in Ordnung, wenn das Smartphone-Display ein wenig verkratzt ist oder schon ein paar Gebrauchsspuren auf der Rückseite hat? Oder muss ein Artikel beim Kauf wirklich komplett neu sein?
+
+Story 14
+The evolution of money looks like this: barter, coins, paper, plastic and now, phones.
+March 21, 2018 6 min read
+This story originally appeared on Bizness Apps
+
+The evolution of money looks like this: barter, coins, paper, plastic and now, phones. With the help of NFC (near field communication), companies are going to revolutionize the shopping experience and replace cash and credit cards with smartphones. People use smartphones to complete daily tasks including paying for goods and services. That's why small businesses are encouraged to embrace mobile payments so that the customers can pay as easily as possible. Mobile payments encompass mobile wallets and mobile money transfers, both taking place through your mobile device. With the help of mobile payments, there is no need to fumble for cash, write out checks or wait for invoices. As the growth of Apple Pay and other NFC payment methods isn't slowing down, adapting to mobile payment technology is extremely valuable for your business.
+Related: 24 Email Marketing Stats Every Business Owner Should Know (Infographic)
+From the data below, we can see that the mobile payments market is gaining momentum. According to Business Insider, the usage of mobile payments among millennials will continue to increase. By 2020, it is expected to reach $503 billion. It is also suggested that by 2025, 75 percent of all financial transaction will be cashless. We can be sure that the times of searching for your wallet will no longer exist as all payments will instead be possible with a single touch. According to Statista, the total global revenue from the mobile payment market will reach $930 billion in 2018.
+A report conducted by Mobile Payment World suggests that by 2020 the number of mobile payment users could increase up to 150 million. Among the most popular mobile payment systems are PayPal, Stripe, and Braintree. In 2016, PayPal processed 102 billion mobile payments.
+If these numbers haven't convinced you, here are the top five reasons why small businesses should adopt mobile payment technology.
+1. It is the most convenient option for customers.
+The first reason is pretty obvious: contactless payments are the most convenient transaction that can be completed a lot quicker. Mobile payments, then, allow for lower wait times at checkout which, in turn, improves the customer experience. Consumers can also access more accounts without the need to carry a physical wallet with all the different cards and cash. All the necessary data is stored in a mobile device.
+In 2015, Business Insider conducted a research that revealed that 40 percent of millennials would switch to mobile payments and give up carrying cash. In Europe, Sweden is already on a way to a cashless society and expects to switch entirely to virtual or plastic payments by 2021.
+2. It's more secure.
+Contactless payments are expected to surpass credit card transactions. Thus, most mobile payment service providers recognize the importance of strengthening the security of contactless payments. Using mobile wallets, such as Apple Pay, Android Pay or Samsung Pay, is more secure and reliable than using a payment card. For example, Apple Pay uses tokenization, a method aimed to encrypt customer data. Users download a mobile payment app and add credit card information to it. Consequently, the real card number is replaced with a token, which is not the real card number. The token is protected with a password or Touch ID. As the token is a not a real card number, it becomes idle for attackers. These steps increase the level of security and reduce the possibility of fraud. In case the phone be lost or stolen, the payment activity can easily be frozen.
+Related: How Email Marketing Can Help Build Your Brand
+3. It's an opportunity to stay on top of new tech.
+Recent research conducted by the consulting company Bain & Co states that "they [consumers] spend more than twice as much [money] through digital channels and tend to shop more often if they use mobile payments. Banks and retailers that move quickly will gain the interest and loyalty of the valuable consumers who are the primary early adopters of mobile payments."
+In 2016, Visa partnered with Honda for an in-vehicle payments system, which makes it possible for a driver to pay for parking and gas. Another example is a partnership between Mastercard, Samsung, and online grocery retailers to make an app that allows customers to order groceries directly from smart refrigerators. The use of mobile payments is a shift away from a card to an omnichannel future, where the payment methods will grow drastically. Businesses can get in on these trends early by incorporating mobile payments into their app or website.
+4. It makes bookkeeping easier.
+When you run a business, you need an easy accounting system that will allow you to invoice customers, pay bills, and share all your payments with the accountant. Introducing mobile payment solutions can help a business achieve better cash flow management. With the help of mobile payments, small businesses can reduce costs such as bank charges and overheads and can better evaluate their cash flow position.
+Related: 9 Skills Every Successful Entrepreneur Needs
+Quite often businesses forget to record their transactions, which can lead to missed valuable expenses or even potential penalties. To help avoid it, there are a number of cloud accounting packages that allow managing finances from mobile.
+With the help of mobile payments, your business accounting can be significantly simplified by:
+reducing time spent on bookkeeping tasks because everything is already in the system
+eliminating data entry
+avoiding a huge backlog of invoices and receipts
+saving time compared to using spreadsheets
+eliminating paper receipts and sending digital receipts to clients on the email address
+5. It improves the customer experience.
+People are ready to embrace mobile payments. Whether it is buying clothes or paying bills, people are more than ready and willing to accept a payment method that can help them to avoid wait times when paying for the goods and services. By providing an opportunity for customers to pay at any time, you provide not only a convenient solution but a payment experience.
+As mentioned, mobile payments can speed up the checkout process, which goes beyond the mere ease of it. Instead, it has an impact on the entire customer experience. For example, retailers can increase their value during holidays when everyone is shopping and there are long queues at other stores.
+The future of payments is going to be all about mobile. Starbucks, known as the pioneer of in-app mobile payments, states that mobile payment accounted for 27 percent of all their U.S. transactions in 2016. Implementing mobile payment will become an essential part of your business. Security remains the top priority. If consumers are sure that they can securely make transactions using mobile phones, they will be eager to use it. If the mobile payment provider underperforms, consumers will continue on using cash and cards.
+Summing up, mobile payments create a better customer experience and set up a better and stronger relationship with them. One of the biggest advantages of mobile payments is a financial convenience, which allows managing money anywhere and at any time. As they become more secure and customer-oriented, mobile payments will play a relevant role in the future of finance and consumers.
+(This blog post was contributed by Kate Kucherenko.)
+
+Story 15
+SUNNYVALE, Calif., Sept. 12, 2018 /PRNewswire/ -- Checkbook today announces two million users eliminating paper checks with its user-first digital payment solution. Founded by former Visa Chief Architect PJ Gupta, Checkbook helps businesses and consumers eliminate the complexities and insecurities plaguing the paper Check payment world. "Over 17 billion check payments for nearly $27 trillion in 2016 costing businesses billions are startling numbers if you consider how archaic, time consuming and unsafe it is to use paper Checks today," said Checkbook founder and CEO PJ Gupta. "Checkbook is helping accelerate digital payment adoption by eliminating the extra steps and security gaps on both sides of the transaction and hitting the two million user mark is an exciting accomplishment."
+A simple email exchange
+Checkbook simplifies business and individual payments replacing time consuming steps for both the sender and the receiver of money with one email exchange. Checkbook immediately sends a Digital Check and does not charge percentage based fees like other payment companies like Square. Checkbook is free for individuals up to three Digital Checks per month and $1 per check for business solutions. Checkbook has no on-boarding or miscellaneous add-on fees and there's no wallet holding funds which means the recipient gets their funds directly in their bank account from the payor's bank account.
+How It Works
+Users only need an email address, simply verify their banking credentials one time to send and receive Digital Checks. For the recipient there is no sign up and no app to download and no username and password to maintain and keep track of. While consumers and sole proprietors benefit greatly from Checkbook's Digital Check efficiencies, banking and financial institutions save the most time and money based on the sheer number of paper check transactions performed every year. Replacing the operational costs of printing, mailing and manually tracking millions of paper checks provides significant time and financial savings. "As the payment landscape has become so complex from P2P to B2B with every flavor of fee and function, Checkbook's focus on simplicity and ease of use for both consumers and businesses has proven a winning combination," said Gupta.
+Digital Checks vs. eChecks vs. ACH
+Checkbook's Digital Checks contain a real check image so that transactions are immediate eliminating the need to input routing and checking numbers over and over. Banks utilizing other 3rd party bill pay tools are unable to provide insight or customer service due to the lack of back end integration, not the case with Checkbook's innovative API which eliminates 10 day wait periods providing true instant bill pay thus reducing customer service cycles (see Baxter Credit Union).
+About Checkbook
+Checkbook is eliminating paper checks while increasing efficiency and security with Digital Check transactions. Based in Sunnyvale, CA, Checkbook was founded in 2015 by former VISA chief architect PJ Gupta and is funded by multiple VCs and individual investors including Tim Draper, Rocketship.vc., Angelist and Founders Fund.
+Contact info:
+Jake Mastrandrea
+Head Of Marketing
+Support@checkbook.io
+
+
+SOURCE Checkbook.io
+Related Links
+http://www.checkbook.io
+
+
+Story 16
+This year’s Arrow Video FrightFest is looking pretty stellar already – thanks to a headline line-up including The Ranger, Climax, Bodied and Tigers Are Not Afraid – but it’s about to get even better. The just-announced short film showcase includes 36 different horrors from ten different countries – with entries from new talent and established filmmakers.
+British acting talent is on particularly strong form this year thanks to Maisie Williams in Tom de Ville’s Corvidae, Gemma Whelan in Paul Taylor’s The Blue Door, Alice Lowe in Salt, plus Adam Buxton and Asa Butterfield in surreal dark comedy Right Place, Wrong Tim.
+Browsing the list, it looks like the line-up covers everything from demon salesmen, tampon monsters and evil moths to good old-fashioned Korean ghosts – with one film called Who’s That At The Back Of The Bus already making us look over our shoulder.
+The festival runs at Cineworld and the Prince Charles Cinema on Leicester square between 23-27 August, and tickets are still available here.
+Find the full line-up on the FrightFest website and read the full short-film line up below.
+FRIDAY 24 AUG – CINEWORLD DISCOVERY SCREEN from 16:00 SHORT FILM SHOWCASE 1.
+WE SUMMONED A DEMON (London Premiere)
+Director: Chris McInroy. Cast: Kirk C. Johnson, Carlos Larotta. USA 2017. 6 min.
+They just wanted to be cool. Instead, they got a demon.
+SECRETION (World Premiere)
+Director: Sarah Talbot. Cast: Jordan Hunter, R G Parker. UK 2018. 8 min.
+An unhappily married couple tries to ignore the grotesque, dripping stain that is growing on their ceiling.
+PIE (European Premiere)
+Director: Adria Tennor. Cast: Jessica Paré, Adria Tennor. USA 2018. 11 min.
+Carol invites Annette over for homemade pie and after much prodding divulges her special ingredient.
+DEVIL WOMAN (European Premiere)
+Director: Heidi Lee Douglas. Cast: Marigold Pazar, Flame Kimball. Australia 2018. 12 min.
+While searching for an endangered animal, Eddy gets bitten, and that bite is more infectious than it looks.
+TiCK (European Premiere)
+Director: Ashlea Wessel. Cast: Ava Close, Alexander De Jordy. Canada 2018. 13 min.
+In a post-pandemic society, a vampire in hiding is forced to make a stand when confronted with the oppressive regime.
+MILK (UK Premiere)
+Director: Santiago Menghini. Cast: Cameron Brodeur, Cameron Brodeur. Canada 2018. 9 min.
+Upon encountering his sleepless mother, a young teen quickly realizes things are not as they seem.
+THE FRONT DOOR (World Premiere)
+Director: Andrew Rutter. Cast: Brad Ash, Chris Butler. UK 2018. 7 min.
+Upon going to lock his front door late at night, Steven discovers some rather odd intruders.
+42 COUNTS (European Premiere)
+Director: Jill Gevargizian. Cast: Andrea Dover, Najarrra Townsend. USA 2018. 8 min.
+Two friends spend their night off watching scary movies until they uncover something much more sinister than what they're watching on screen.
+MY MONSTERS (European premiere)
+Director: Izzy Lee. Cast: Brea Grant, Adam Egypt Mortimer. USA 2018. 7 min.
+Christmas is coming, and Lily has to contend not only with a clueless partner, but also an unexpected, inter-dimensional holiday guest.
+BFF GIRLS (European Premiere)
+Director: Brian Lonano. Cast: Allison Maier, Jessica Shipp, Sydney Thomas. USA 2018. 13 min.
+Three dorky American girls magically transform into beautiful Japanese Superheroes and fight the tampon monster.
+WHO’S THAT AT THE BACK OF THE BUS (World Premiere)
+Director: Philip Hardy. Cast: Susan Barham. UK 2018. 5 min.
+Alone on the top deck of the night bus, Joyce is haunted by an unlikely apparition.
+SATURDAY 25 AUG - CINEWORLD DISCOVERY SCREEN (Preceding DEMENTIA PART II @ 19:00) THE GOOD SAMARITANS (World Premiere)
+Director: Christopher Goodman. Cast: Abraham Buckoke, Dom Kinnaird, Sophia Kounoupias. UK 2018. 6 min.
+Two opportunistic highwaymen seek to take advantage of a young woman who is stranded alone in 16th century Romania.
+SUNDAY 26 AUG - PRINCE CHARLES DISCOVERY SCREEN 1 (from 11:00) SHORT FILM SHOWCASE II
+CATCALLS (UK premiere)
+Director: Kate Dolan. Cast: Sarah Kinlen, Edel Murphy, Martin O'Sullivan. Ireland 2017. 8 min.
+A man cruises around late at night looking for something. Unfortunately, he has picked the wrong girls.
+MADDER ISLE (London Premiere)
+Director: Laura Spark. UK 2017. 8 min.
+In a poisoned sea, on a forsaken rock, a holy sect seek to bring about a new era, but Morgan discovers their intentions are not wholly pure.
+WRONG NUMBER (UK Premiere)
+Director: Tiago Teixeira. Cast: Nicholas Anscombe, Ellie Woodruff-Bryant. UK 2018. 13 min.
+When a woman has a foreboding dream, she must find out its meaning before it is too late.
+THERE ARE NO DIVIDENDS (European Premiere)
+Director: Joe Haughey. Cast: Rebecca Gethings, Marc Pickering, Toby Williams. UK 2018. 9 min.
+Darren has a great new invention and wants to recruit the best and brightest. Unfortunately, the hotel wants money for the room he has ‘rented’.
+BE UNCERTAIN (World Premiere)
+Director: Jack Carrivick. Cast: Aisling Bea, Stephen Wight. UK 2018. 15 min.
+Stuck in a stagnant routine, JD finally does the unexpected, only to wish he hadn’t.
+THE BLUE DOOR (London Premiere)
+Director: Paul Taylor. Cast: Janie Booth, Annie McGrath, Gemma Whelan . UK 2017. 9 min.
+A district nurse is assigned a new patient and she discovers that the patient, and the home she inhabits, are hiding a dark secret.
+
+MARTA (London Premiere)
+Director: Lucía Forner. Cast: Thais Blume, Daniel Pérez Prada. Spain 2017. 15 min.
+Marta's dream profession is to be a serial killer, and she wants Carlos to be her first victim.
+REPRISAL (UK Premiere)
+Director: Mike Malajalian. Cast: Lisa Debs, Anatole Saadeh. Lebanon 2017. 10 min.
+A young woman becomes anxious at the news of the return of her husband who disappeared 30 years ago during the civil war.
+
+SALT (UK Premiere)
+Director: Rob Savage. Cast: Beau Gadsdon, Alice Lowe. UK 2017. 2 min.
+A woman protects her dying child from a demonic force with a single weakness - a ring of salt.
+FIRE IN CARDBOARD CITY (London Premiere)
+Director: Phil Brough. Cast: Julian Brough, Leigh Hart, Ella Wilkes. New Zealand 2018. 9 min.
+A fire has broken out, and it’s up to the firefighters to save the day! But what other disasters might befall them?
+SUNDAY 26 AUG – ARROW VIDEO & HORROR CHANNEL SCREENS, CINEWORLD (Preceding HE’S OUT THERE @ 15:30 & 16:00) SYBIL (World Premiere)
+Director: Joanne Mitchell. Cast: Tracey Sheals, Seamus O’Neil, Joanne Mitchell. UK 2018. 11 min.
+A lonely mortician finds herself caught in a rather odd love triangle.
+MONDAY 27 AUG - PRINCE CHARLES DISCOVERY SCREEN 1 (from 13:20) SHORT FILM SHOWCASE III ENVY (London Premiere)
+Director: Sam Hoggarth. Cast: Pippa Harrison, Danielle Love. UK 2017. 6 min.
+At an after-school drama lesson, Emma finds out that her best friend Jess has thrown their long-term plans out the window, causing Emma to see red. And green.
+SPECIAL DAY (European Premiere)
+Director: Teal Greyhavens. Cast: Maya Bowman, Caesar James, Laura Wernette. USA 2018. 7 min.
+Birthdays are a time for the whole family to come together.
+THE LADY FROM 406 (UK Premiere)
+Director: Lee Kyoungmi. Cast: Lee Yeong-ae. Republic of Korea, 2014. 14 min.
+The lady who lives in room 406 hates the cigarette smoke from downstairs, but when she goes to complain, the neighbour says something odd.
+THE COST OF LIVING (World Premiere)
+Director: Tom Nicoll. Cast: Jonathan Coote, Liam Harkins, Lorna Nickson Brown. UK 2018. 4 min.
+In the city of exorbitant costs, how far would you go to pay your rent?
+PAYMENT WORLD (World Premiere)
+Director: Ben Larned. Cast: Jamal Douglas, Thomas McNamara. USA 2018. 8 min.
+After 10 years of hiding, Stephen confronts the Salesman to whom he sold his soul, unaware that the demon has fallen in love with him.
+BAGHEAD (UK Premiere)
+Director: Alberto Corredor. Cast: Natalie Oliver, Julian Seager, Oliver Walker. UK 2017. 15 min.
+Kevin is haunted by grief and has questions that only the recently deceased can answer.
+
+PUPPET MASTER (UK Premiere)
+Director: Hanna Bergholm. Cast: Merja Pöyhönen, Jari Virman. Finland, 2018. 15 min.
+A lonely woman succumbs to the desires of a mysterious man, who wants to possess her in more ways than one.
+RIGHT PLACE WRONG TIM (European Premiere)
+Director: Eros Vlahos. Cast: Asa Butterfield, Adam Buxton, Ella Purnell. UK 2018. 7 min.
+Our favourite clock making family is back again. And again. And again. And again.
+CORVIDAE (World Premiere)
+Director: Tom de Ville. Cast: Maisie Williams. UK 2018. 11 min.
+A dark fairy tale about a young girl who loves birds, and the very strange thing that happens when she tries to protect a wounded crow.
+NECKFACE (European Premiere)
+Director: Sian Harries. Cast: Sian Harries, Isy Suttie. UK 2018. 11 min.
+Having dreamed of the perfect wedding, Laney wakes up with the world's most unwelcome guest in her bed.
+FIRST BLOOD SHORTS : Sat 25 August - PRINCE CHARLES DISCOVERY SCREEN 1 (from 14:15) FRAN & THE MOTH (London Premiere)
+Director: Malcolm Rumbles. Cast: Jack Bannon, Holly Woodhouse. UK 2017. 6 min.
+A woman enters into a surreal battle with a moth and her sanity.
+THE LONELY WORLD (World Premiere)
+Director: Anneké Cullen. Cast: Tom Lyons . UK 2018. 7 min.
+A man escapes to the country side to be alone.
+MANNEQUINS (World Premiere)
+Director: David Malcolm. Cast: EmmaClaire Brightlyn, Austin Hayden, Alyssa Wininger. UK 2018. 7 min.
+Four friends visit the abandoned Carpenter Hill Hospital for laughs and scares, unaware of the true darkness that waits for them.
+
+Story 17
+DPD ist einer der großen Paketdienstleister in Deutschland. Das hochtechnisierte Unternehmen bietet eine Reihe von Dienstleistungen an. Die Kunden mögen bei DPD insbesondere die Echtzeit-Sendungsverfolgung, die ihnen auf einer Karte anzeigt, wo sich der Paketbote befindet und wie lange er noch braucht.
+Sendungsnummer eingeben und bei DPD live verfolgen *
+DPD ist, neben der Post, dem Hermes-Versand und GLS einer der großen Player auf dem deutschen Markt der Paketbeförderung. Jeder dieser Dienste bietet natürlich ein Tracking an. Das Besondere bei DPD ist die Sendungsverfolgung in Echtzeit, bei der die momentane Position des Fahrers auf einer Karte zu sehen ist. Hier erfahrt ihr, wie ihr zur Sendungsverfolgung von DPD kommt, was ihr dort eingeben müsst und wie ihr in die Live-Ansicht umschaltet.
+Mehr zum Thema DPD:
+Bilderstrecke starten
+29 Bilder
+DPD-Sendungsverfolgung mit Live-Ansicht: So geht’s
+Um das Tracking von DPD nutzen zu können, müsst ihr euch nirgends anmelden. Allerdings benötigt ihr entweder eine Sendungsnummer oder eine Paketscheinnummer. Erklärung: Eine Sendungsnummer kann mehrere Paketscheinnummern umfassen, wenn die Sendung aus mehreren Paketen besteht.
+Es gibt bei DPD zwei Arten der Sendungsverfolgung. Beim normalen DPD-Tracking wird euch lediglich eine Liste angezeigt, auf der ihr den Beförderungsstatus sehen könnt. Das sieht dann etwa so aus:
+Daneben gibt es noch das Live-Tracking bei DPD. Diese Art der Sendungsverfolgung zeigt euch die Position des Paketwagens auf einer Karte und gleichzeitig die Anzahl der noch nötigen Stopps. Daraus wird eine ungefähre Zustellungszeit berechnet.
+So ruft ihr die DPD-Live-Sendungsverfolgung auf:
+Öffnet das „DPD-Live-Tracking“ in einem Browser. Gebt oben rechts im Eingabefeld „Wo ist mein Paket“ die Paketnummer ein und schickt das Formular mit der Return-Taste ab. Die Paketnummer wird euch in der Regel durch den Versender mitgeteilt. Im nächsten Fenster müsst ihr aus Datenschutzgründen noch eure Postleitzahl angeben. Und mit einem Klick auf den Button „Bestätigen“ absenden. Anschließend seht ihr eine Übersicht mit den Daten zu der Sendung sowie eine Karte mit der Position des Paketwagens. Außerdem die Angabe der noch verbleibenden Stopps, bis er bei euch ist. Ein Klick auf das Vergrößerungssymbol in der Karte zoomt in die Ansicht und vergrößert sie.
+Hinweis:
+Dieses Live-Tracking hört sich nach einem tollen Feature an, aber die Realität ist etwas ernüchternd. Der angezeigte Standort des Paketwagens richtet sich danach, wo zuletzt ein Paket abgegeben und über das Handgerät des Fahrers ins System eingebucht wurde. Das funktioniert allerdings nicht ganz zuverlässig, wenn die Fahrer beispielsweise einfach eine Reihe von Paketen an der Ablagestelle platzieren und dann weiterhetzen.
+Unsere eigenen Erfahrungen haben gezeigt, dass dieses Feature ein nettes Gimmick ist, aber unterm Strich oft auch nicht aussagekräftiger als die Angabe der Post „8:21 AM: Sendung wird zugestellt.“
+Weitere Artikel zum Thema:
+Eure eigenen positiven und negativen Erfahrungen mit DPD könnt ihr uns in die Kommentare schreiben. Falls ihr Probleme mit dem Versand habt: In einem separaten Artikel erklären wir euch, wie man sich bei DPD beschweren kann.
+Uns interessieren natürlich auch eure persönlichen Erfahrungen mit dem Live-Tracking. Empfindet ihr das als zuverlässig oder doch eher nur als Spielerei?
+Umfrage: Refurbished oder Neuware?
+Ist es für euch in Ordnung, wenn das Smartphone-Display ein wenig verkratzt ist oder schon ein paar Gebrauchsspuren auf der Rückseite hat? Oder muss ein Artikel beim Kauf wirklich komplett neu sein?
+
+Story 18
+First there were little paper tickets that cost a nickel. Then there was the nickel itself, because until just after World War II, a nickel was the only thing that made subway turnstiles go around. Then came the dime, followed by the token — the singular currency of New York City. And, since the 1990s, there has been the MetroCard, recognizable, bendable, losable and not always reliable.
+Now that familiar symbol of daily life is something else — outmoded. And it is on the way out.
+On Monday, the city’s transit system took a significant step toward a more modern way for passengers to pay their fares. Starting late next year, they can do it the way Londoners already do, by waving cellphones or certain kinds of credit or debit cards at the turnstiles in the subway or the fareboxes on buses.
+A committee of the Metropolitan Transportation Authority approved a $573 million contract for a new fare payment system adapted from the one in use for several years on the London Underground and London’s commuter railroads. New electronic readers will be installed in 500 subway turnstiles and on 600 buses in New York beginning late next year, and will reach the rest of the city’s subway stations and buses by late 2020.
+“It’s the next step in bringing us into the 21st century, which we need to do,” said Joseph J. Lhota, the chairman of the transit authority. “It’s going to be transformative.”
+
+Story 19
+Das alte Handy einfach wegzuschmeißen ist in vielen Fällen vertanes Geld und ebenso nicht die umweltfreundlichste Möglichkeit. Oft kann man sogar kaputte Handys noch verkaufen: Ersatzteile und wertvolle Metalle in den defekten Geräten können wiederverwertet werden. Welche Möglichkeiten ihr habt, euer altes Smartphone (egal, ob voll funktionsfähig oder defekt) zu barer Münze zu machen, zeigen wir euch hier auf GIGA.
+Alte Handys verkaufen
+Um sein altes Handy verkaufen zu können, gibt es bereits eine Vielzahl an Online-Portalen. Zuerst solltet ihr jedoch folgende Punkte beachten:
+Sucht alles an Zubehör für das Handy zusammen, was ihr noch besitzt. Das kann den Verkaufspreis eventuell erhöhen (vor allem bei Privatverkauf). Prüft, ob das Smartphone noch voll funktionstüchtig ist oder ob ein Defekt vorliegt. Reinigt das Gerät! Ein sauberes Smartphone sieht auf Fotos besser aus und wird häufig auch gleich höherwertig eingeschätzt. Wenn ihr es in einem Kleinanzeigenmarkt oder per Auktion verkaufen wollt, solltet ihr ein eigenes Foto des Gerätes anfertigen und nicht einfach ein Produktbild des Herstellers verwenden. Ein gutes Bild, welches den Zustand des sauberen(!) Geräts zeigt, kann manchmal Wunder wirken. Und vor dem Verkauf die eigene SD-Karte entfernen, alle privaten Daten löschen und das Gerät auf die Werkseinstellungen zurücksetzen:
+Bilderstrecke starten
+4 Bilder
+Auf welchen Plattformen kann man alte Handys verkaufen?
+Oft mit etwas mehr Aufwand verbunden, bietet der Verkauf von Privat an Privat aber für gewöhnlich auch den höheren Gewinn.
+Der Klassiker: eBay . Hier sollte man allerdings nicht vergessen, dass eBay-Gebühren für Auktionen erhebt und es zusätzlich eventuell wenige Interessenten gibt, weil auch noch Portokosten für ein ohnehin geringpreisiges Gerät anfallen.
+. Hier sollte man allerdings nicht vergessen, dass eBay-Gebühren für Auktionen erhebt und es zusätzlich eventuell wenige Interessenten gibt, weil auch noch Portokosten für ein ohnehin geringpreisiges Gerät anfallen. Auch Amazon ist mittlerweile zu einem beliebten Anbieter für Gebrauchtware geworden. Hierzu benötigt ihr ein , welches ihr euch ganz einfach mit eurem normalen Account anlegen könnt. Jedoch zieht auch Amazon einen Anteil eures Gewinns ein, welchen ihr aber vor dem Einstellen eines Artikels genau ermitteln könnt.
+ist mittlerweile zu einem beliebten Anbieter für Gebrauchtware geworden. Hierzu benötigt ihr ein , welches ihr euch ganz einfach mit eurem normalen Account anlegen könnt. Jedoch zieht auch Amazon einen Anteil eures Gewinns ein, welchen ihr aber vor dem Einstellen eines Artikels genau ermitteln könnt. Ohne Gebühren, dafür aber oft auch nur lokal geht es über verschiedenen Kleinanzeigen-Potale wie beispielsweise eBay-Kleinanzeigen, Quoka oder Kalaydo.
+wie beispielsweise eBay-Kleinanzeigen, Quoka oder Kalaydo. Natürlich könnt ihr es auch mit dem absoluten „Old School“-Weg versuchen und einen Zettel am Schwarzen Brett des örtlichen Supermarkts oder eurer Uni aushängen.
+Welche Plattformen kaufen alte Smartphones?
+Es gibt neben Mobilfunkanbietern auch Unternehmen, die sich auf den An- und Wiederverkauf von alten Handys und anderen Geräten spezialisiert haben. Wir haben euch hier eine Auswahl der bekannten Anbieter zusammengefasst:
+Anbieter Auszahlung Weitere Kategorien Link reBuy 3-5 Werktage Filme, Spiel, Musik
+Apple-Geräte
+Tablets & Wearables,
+Kameras & Zubehör
+Konsolen & Zubehör Zum Anbieter * WIRKAUFENS 5-7 Werktage Apple-Geräte
+Tablets & Laptops
+Kameras & Zubehör
+Konsolen & GPUs Zum Anbieter * FLIP4NEW 24 Stunden Apple-Geräte
+Tablets & Laptops
+Kameras & Zubehör
+Konsolen Zum Anbieter * ZOXS 5-7 Werktage Filme & Spiele
+Laptops & Tablets
+Uhren & Kameras
+Konsolen & Spielzeug Zum Anbieter * Clevertronic 24 Stunden Tablets
+Uhren
+Lautsprecher
+Konsolen Zum Anbieter *
+Bei den verschiedenen Anbietern könnt ihr direkt sehen, welchen (maximalen) Preis ihr für das Handy im jeweiligen Zustand noch erzielen könnt. Generell sollte man aber nicht mit allzu viel Geld rechnen. Außer Apples iPhone verlieren die meisten Smartphones und Handys schnell an Wert.
+Für funktionsfähige Geräte bekommt ihr bei den Unternehmen häufig weniger als beim Verkauf an Privat, da die Unternehmen ja auch noch Geld mit dem Wiederverkauf verdienen müssen. Andererseits ist der Verkauf auf solchen Plattformen schneller abgeschlossen und wesentlich bequemer. Dazu nehmen die Unternehmen häufig auch die kaputten Geräte noch für etwas Geld entgegen. Einen guten Vergleich der verschiedenen Ankauf-Plattformen speziell für Handys findet ihr unter handyverkauf.net.
+Altes Handy entsorgen: Ob gebraucht, defekt oder kaputt
+Wie bereits erwähnt, kann man auch defekte Handys bei den oben genannten Anbietern zu Geld machen. Falls man das Gerät ohnehin wegschmeißen wollte, kann man so wenigstens noch den einen oder anderen Euro erhalten und hat das gute Gewissen, dass das Smartphone zumindest sachgemäß recycelt wird. Sollte das Handy einfach nur gebraucht oder ein neueres defektes Smartphone sein, wird der Anbieter es womöglich reparieren und weiterverkaufen, anstatt es schlicht zu recyceln.
+Ist das Handy so alt, dass es nicht mal mehr bei den Aufkäufern gelistet wird oder nur ein paar Cent bringt, könnt ihr es auch kostenlos bei der Telekom einschicken. Alternativ kann es auch bei der örtlichen Elektrosammelstelle abgegeben werden. Auf jeden Fall gehört ein altes Handy nicht in den Hausmüll, da dies Verschwendung von wertvollen Ressourcen wäre – egal, ob gebraucht und noch funktionstüchtig oder kaputt.
+Was passiert mit den alten Handys?
+Je nachdem, ob die Geräte kaputt oder noch funktionstüchtig sind, erleben die alten Handys ein unterschiedliches Schicksal:
+Funktioniert das Gerät noch, wird es gereinigt, zurückgesetzt und schließlich weiterverkauft. In diesem Fall sollte man auf jeden Fall seine Daten auf dem Smartphone vor dem Verkauf gründlich löschen.
+Ist das Handy defekt, ist es trotzdem nicht wertlos. Das Gerät enthält wertvolle Metalle und seltene Erden, die man wiederverwenden kann – was wiederum die Umwelt schont.
+Handy-Akku entsorgen
+Bei Handy-Akkus gilt das Gleiche wie für normale Akkumulatoren und Batterien: Sie sind Sondermüll und müssen entsprechend entsorgt werden. Dafür muss man aber keinen großen Aufwand betreiben. In den meisten Supermärkten und in vielen Drogerien gibt es Sammelboxen für alle Batterien. In diese kann man auch Handy-Akkus legen. Lest zum Thema auch: Wo kann man Batterien entsorgen?
+Wie oft kaufst du dir ein neues Smartphone?
+Handyverträge laufen in der Regel mindestens zwei Jahre, doch fast alle Smartphone-Hersteller bringen mittlerweile jedes Jahr mehrere neue Geräte auf den Markt. Empfindest du das als Über-Angebot oder als positive Entwicklung, da du dein Smartphone gerne häufig wechselst?
+
+Story 20
+By adopting cashless methods, people do away with need to carry around bulky banknotes and hence the new technology is bound to take over
+August 1, 2018 5 min read
+Opinions expressed by Entrepreneur contributors are their own.
+You're reading Entrepreneur India, an international franchise of Entrepreneur Media.
+Post the abrupt implementation of Demonetization, the use of digital payment methods in India received a major boost. According to the National Payments Corporation of India (NPCI), BHIM Unified Payments Interface (UPI) transactions touched INR 1 trillion in value and 913 million in volume, up from a paltry 7 million volume in April 2017. One would imagine, then, that the increased use of digital payment methods has led to a decrease in the use of cash.
+However, this isn’t the case. According to data from the RBI, the total currency in circulation stood at INR 18.13 trillion on March 9, 2018 which was significantly higher than the INR 17.97 trillion on November 8. Simply put, cash as a payment instrument is still dominating the payment space, and digital payment usage is still limited to a small, largely urban and technologically enabled audience. Delving deeper into the payment practices and infrastructures in the country, one can clearly see that there is an overall technological disconnect that is ensuring that cash remains king.
+Why digital payments – its benefits over cash
+But why should that matter? In the discussion that followed the implementation of demonetisation, the government said that encouraging digital payments was one of the motivations behind the policy. The government built better digital infrastructure and promoted the penetration of mobile wallets along with secure Aadhaar-linked payment systems to provide a seamless payment process. Why should Indians be encouraged to adopt digital payment systems? It did so because digital payment systems are easier to regulate and monitor, allowing the government to better prevent fraud, money hoarding, and tax evasion.
+End-consumers also benefit in getting rid of their reliance on cash. By adopting cashless methods, people do away with need to carry around bulky banknotes or plastic cards. What’s more amazing is that they do not even need to be physically present while making payments! Extreme convenience has indubitably appeared as the foremost benefit of digital payment methods. These payment methods are also more reliable than cash transactions as all digitally carried out transactions are duly recorded and these records can accessed to be used as proof of payment. By allowing people to track spends, digital payment methods not only help while budgeting but also while calculating income tax payments. If under scrutiny, these records can help people explain their savings and spends.
+Digital methods of payment also offer security by doing away with predicaments such as lost cash or misplaced cards. Security measures such as biometric IDs and two-factor authentication give customers a sense of safety while using these methods. Minor cash glitches such lack of exact change with shopkeepers can also be permanently resolved with the advent of digital payments where you can pay the exact amount to the very last Paisa.
+However, even with the aforementioned advantages in place, cash is still the most predominant method of payment in India. For all their benefits, digital payments have continued to be elusive and inaccessible for a substantial majority of Indians.
+Current pitfalls in digital payments – Why cash is still dominant in India
+Even though payments through digital methods such as wallets and UPI are convenient, they remain inherently exclusionary as they are majorly based on internet connections, QR codes, RFID and similar hardware and software that is complex to operate and expensive to own.
+According to available industry figures, India is home to 800 million mobile phone users, of which only around 200 million use smartphones, leaving 600 million cellphone users without the ability to use the internet or QR codes for payment. Of these, a mere 6 million phones are NFC-enabled. The fact that all sections of society do not have access to pre-existing digital payment methods acts as a huge disconnect in the digital payments landscape. Owing to this gaping chasm in the digital payment system, a lot of people have been unable to adopt these otherwise cutting-edge methods of payment.
+Further, even after putting complex security procedures in place, digital wallet scams are common due to a lack of familiarity with these digital systems, and Indians are thereby reluctant to completely trust these methods. With security concerns on the rise, the need for a more reliable system of payment is apparent.
+To create a high-functioning, productive cashless economy, there exists a need for a method that is as interoperable as cash and as convenient as cashless methods.
+Sound-Wave technology to fill digital payment gaps
+Soundwave-based payment systems can bridge the gaps that currently exist in the digital payment world. Soundwave technology merges the advantages of digital methods and those of cash to create a uniquely interoperable payment system. Such a system does not rely on complex hardware similar to pre-existing methods. In fact, it can be integrated with basic phones that do not support data connections.
+Sound-based payment services, use sound waves to enable payments on any device, independent of the instrument or infrastructure, providing the interoperability of cash along with the ease-of-use of digital payment systems. It thus enables contactless payments and communication between mobile phones, leading to convenient transactions with no added costs or high initial expenditure for the consumer or merchant.
+Addressing the need for added security, new-age sound-based proximity communications and payment service companies have integrated Blockchain to create a secure and accessible payment system.
+Soundwave technology, with its maximum convenience and seamless interoperability, can slowly but surely, take over the use of cash in India. When everyone from a huge retail store manager to a local mom-and-pop store owner, pay using sound-wave technology, India will truly become a trailblazing, cashless economy.
+
+Story 21
+UAW local publishes blacklist of workers who opt out of dues payment
+By Eric London
+5 January 2016
+In its latest tactic aimed at bullying workers, the United Auto Workers has published a blacklist of workers who decided to end their membership in the UAW and stop paying dues to the organization under Michigan’s so-called Right-To-Work law.
+The Republican-backed law is anti-worker and aimed at blocking any collective resistance to the corporations. That being said, workers have every reason to stop paying the UAW for the “privilege” of being sold out.
+In its most recent newsletter, UAW Local 412 in the Detroit suburb of Warren, Michigan—which is composed of Fiat Chrysler autoworkers as well as county, health, and military equipment workers—listed the names of 43 workers who have stopped paying dues. In addition to saying these workers will no longer have the right to vote on contracts, the newsletter urges other workers “not [to] share any tools, knowledge, or support” with “ex-UAW members.”
+The UAW newsletter targets one Fiat Chrysler worker in particular, mentioning him by name and noting, “Although this person made substantial gains economically from [recent Big Three contract] negotiations, he has chosen to quit paying his fair share…”
+This statement turns reality on its head. First, what the UAW calls “substantial gains” is the poverty contract the UAW imposed on behalf of the auto bosses through a series of lies, tricks, and threats.
+The deal the UAW rammed through after FCA workers overwhelmingly rejected the first tentative agreement was essentially the same as the first. The contracts at all three automakers—FCA, GM and Ford—include paltry wage increases, no cost-of-living-adjustment, a retention of the Alternative Work Schedule and more corporate flexibility for temp hiring. They limit labor cost increases to below the rate of inflation, open the way to a further assault on health care, and will provide billions more in profits for the automakers.
+Second, workers who choose to leave the UAW have not “chosen to quit paying their fair share,” they have made the completely justified choice to stop forking over their hard-earned money to an organization of pro-corporate stooges.
+Workers know their dues money is used to finance the salaries and perks of the army of pro-company executives that man the UAW apparatus. After forcing workers to accept the recent sellout contract, UAW-Ford negotiation officials used workers’ money to go on an all-expenses-paid beach binge in Miami Beach, Florida. They stayed at the luxury Eden Roc Resort, where rooms cost $600 per night. While UAW officials were enjoying $200 massages and $60 drinks on their vacation, UAW workers at Kohler in Wisconsin were receiving just $200 a week in strike pay to feed their families. In other words, the UAW wants workers to “pay their fair share” of the bar tab of these corrupt officials.
+This is not the first time a UAW local has posted lists of workers who have chosen to decertify. At GM’s Spring Hill plant in Tennessee, the UAW printed a similar blacklist, labeling those who chose to decertify as “scabs.”
+A “scab” is a worker who betrays the working class by weakening the workers’ unity, who goes behind the backs of the workers to help the corporation make profit, and who will do anything to keep production and profits up, all for a tiny and pathetic pay-off from his corporate master.
+As the recent contract struggle shows, this is a definition that applies to the UAW, and a scab organization has no right to call workers names for choosing not to pay up any longer.
+The UAW is engaged in a campaign to threaten and silence workers who speak out against the UAW-backed corporate tyranny in the factories and the relentless speedup, job-cutting and deadly working conditions the UAW will enforce under these sellout deals.
+Workers have been fired at Nexteer in Saginaw, Michigan as well as at Ford’s Kansas City Assembly Plant for voicing opposition to the UAW and the corporations on social media. Many workers suspect the UAW is helping the company pick out the most class-conscious workers for victimization.
+This follows the redbaiting and anti-socialist campaign the UAW launched against the World Socialist Web Site Autoworker Newsletter for telling autoworkers the truth and rallying the opposition of thousands of rank-and-file workers against the pro-company labor agreements.
+To the UAW and the corporations, workers have no rights in the workplace. In the eyes of the UAW and the corporations, workers accept conditions similar to life under a police state dictatorship.
+In a telling online interaction, one UAW official reprimanded an autoworker for opposing their blacklist. After a UAW Facebook page posted an article about the blacklist, workers began to denounce the anti-democratic measure only to be told by the UAW that they have no rights.
+One autoworker commented: “Since [the UAW] won’t address people’s very legitimate grievances, they turn to censorship in an attempt to make the problems ‘disappear.’ Cute.”
+UAW bureaucrat Ralph Lyke replied with the chilling statement: “There is No ‘Free Speech’ in Our UAW Workplace…Again, the U.S. Bill Of Rights Don’t Apply—When we enter our UAW workplaces, we leave our civil liberties in the glove box of our vehicles.”
+Such a statement might well have been made by one of Hitler’s cronies in a fascist “Labor Front.” During Hitler’s reign, the fascists crushed the opposition of workers and imposed dictatorial shop conditions and forced workers to join pro-corporate, pro-government “Labor Front” organizations. While the UAW is not a fascist organization, in the corporatist, nationalist and deeply anti-democratic outlook of its management there are many parallels.
+The World Socialist Web Site opposes all attacks on the rights of workers, whether from right-wing forces like the Koch Brothers, who want to outlaw any means for workers to collectively oppose the employers, or from the UAW, which calls itself a “union” to conceal the fact that it is nothing more than an arm of corporate management and the government.
+New forms of representation and struggle must be built, including factory committees democratically controlled by the workers themselves and committed to the methods of class struggle, not class collaboration.
+This must be combined with the development of a powerful political movement of the working class to end the dictatorial control of the corporate and financial elite, and its political servants in both big business parties. Genuine democracy in the workplace will only be created when the economy is put under the control of workers themselves and reorganized on the basis of the socialist principle of production for human need, not profit.
+The author also recommends:
+UAW vs. autoworkers: Who are the freeloaders?
+[6 July 2015]
+We need your support The WSWS Autoworker Newsletter needs your support to produce articles like this daily. We have no corporate sponsors and rely on readers just like you. Become a monthly subscriber today and support this vital work. Donate as little as $1. It only takes a minute. Thank you.
+Please enable JavaScript to view the comments powered by Disqus.
+
+Story 22
+Text size
+There are many reasons to believe credit card companies will continue to charge ahead.
+In the U.S., consumers may still feel wary of debt after the pain of the Great Recession, but that hasn’t stopped them from swiping their cards: Revolving credit, reflecting mostly credit-card debt, climbed at an annual 11.57% rate in April, the second-largest increase since 2009. That’s part of a larger trend that’s been playing out for decades, as both Visa (ticker: V) and MasterCard ( MA ) have seen purchase volume on their U.S. credit cards soar well over 100% since 2000 as consumers take on more debt and increasingly use plastic over cash.
+While the U.S. still leads in credit card use, international growth is brisk. Global noncash payments grew by 9.4% in 2013, led by a 22% increase in developing markets. Purchase transactions even in developed Europe are expected to more than double in the decade ending 2023, while the Asia Pacific and Mideast Africa regions are projected to see transactions more than triple, as credit and technology further penetrate emerging markets.
+Noncash transactions are expected to rise to a total of 800 billion over the next decade, according to the latest World Payments Report, helped by the rise of mobile transactions. This comes as the regulatory fervor that grew out of the financial crash dissipates and cashless e-commerce continues to grow.
+In short, there are a lot of reasons to like credit card companies. We’d highlight two in particular: Inexpensive Capital One Financial ( COF ), which focuses on the domestic market, and industry heavyweight MasterCard, for exposure to global growth.
+At a Glance Capital One Financial (COF) Stock Price: $86.93 52-Week High: $86.99 52-Week Low: $72.77 Market Value: $47 billion Est. 2015 EPS: $7.68 Fwd P/E: 10.8 Est. Long-Term EPS Growth:* 6.2% Est. ('15/'14) EPS Growth: 1.2% Revenue (trailing 12 months): $18.8 billion Dividend Yield: 1.9% CEO: Richard Fairbank Headquarters: McLean, Va. * Based on analyst estimates looking ahead three to five years.
+Sources: Barron’s, Thomson Reuters, Yahoo! Finance
+First, Capital One: At $85 a share, the $64 billion company is trading at 10.8 times 2016 earnings and 1 times book value, much cheaper than either credit card stocks or regional bank stocks. While best-known for its plastic, Capital One is one of the nation’s top 10 biggest banks based on deposits, with 1,000 branch locations primarily in the Northeast and Texas.
+The market doesn’t seem to appreciate the stock’s potential, says Lisa Dong, director of equity research and portfolio manager at Westwood Group. “Capital One is levered to consumer credit quality and growth, and to us the loan growth — particularly the domestic credit card loan portfolio — is underestimated,” she says.
+As a result, earnings estimates are too low, as evidenced by the company’s upbeat first-quarter earnings report in April. But Dong says that even though earnings estimates have been steadily increasing, they’re still too conservative. “When Capital One continues to deliver better-than-expected earnings the valuation will go up.”
+Its multiple doesn’t seem to give enough credit to the company’s strong financial position either: Capital One passed its stress test, aka the Federal Reserve’s latest Comprehensive Capital Analysis and Review, which paved the way for a 33% dividend increase.
+Veteran manager Jonathan Simon, who helms the five-star J.P. Morgan Value Advantage Fund, recently highlighted Capital One as a top pick, noting that the company’s expansion into regional banking has given it a low-cost deposit business to help fund its credit card loans, “one of the few types of loans that still pay double-digit interest rates.”
+Although Capital One still gets the majority of its nearly $19 billion in annual revenue from credit cards, the deposit base from its banking arm gives it access to assets cheaply, improving its liquidity, stabilizing its earnings from the cyclicality of the credit card market, and ensuring loan rates are competitive. Its single-digit earnings growth rate may not seem exciting, but the company has a history of making smart acquisitions and rewarding shareholders via share repurchases — and now dividend increases — with the government’s blessing.
+April metrics, announced in mid-May, showed that the company’s U.S. card loans rose 8.7% year over year, marking 12 straight quarters of increases and the fastest growth since it acquired HSBC’s domestic credit card business in 2012. Its delinquency rate declined, as did chargeoffs in its auto loan business.
+Westwood’s Dong notes that Capital One has been in the auto lending game much longer than many other banks that have recently jumped into this growing market, and it’s been showing laudable caution in that area. More important, she says that while it may not serve exceptionally strong consumers like competitor American Express ( AXP ), Capital One has long been able to serve the large middle ground successfully because of its superior risk management — the expertise of founder Richard Fairbank.
+By contrast, MasterCard doesn’t take on credit risk and has plenty of other appealing attributes: The company enjoys a virtual duopoly with Visa and operates essentially like a toll road, taking a small percentage of the huge number of transactions completed on its worldwide network every day. Its vast scale — its market value is nearly $105 billion — and brand give it a huge advantage over smaller rivals as it pushes into new markets.
+At a Glance MasterCard (MA) Stock Price: $94.17 52-Week High: $94.50 52-Week Low: $69.64 Market Value: $105 billion Est. 2015 EPS: $3.42 Fwd P/E: 23 Est. Long-Term EPS Growth:* 17.8% Est. ('15/'14) EPS Growth: 10.3% Revenue (trailing 12 months): $9.5 billion Dividend Yield: 0.70% CEO: Ajay Banga Headquarters: Purchase, N.Y. * Based on analyst estimates looking ahead three to five years.
+Sources: Barron’s, Thomson Reuters, Yahoo! Finance
+“MasterCard is an exceptional company in the right line of business and the growth is very strong,” says Mark Mulholland, founder of Matthew 25 Management, which recently counted the company as one of the top five holdings in his eponymous mutual fund.
+He argues that “it doesn’t get much better” than MasterCard’s balance sheet, and the company earns an A+ not only for its financial profile, but for its management and the quality of its businesses as well.
+Mulholland thinks that at 23 times 2016 earnings, the $92 stock looks fairly valued at present, but on that metric it’s still cheaper than Visa, even as the Street expects MasterCard’s 2016 and 2017 EPS to grow 20.1% and 17.8%, respectively. Hutch Vernon, portfolio manager at Brown Advisory Flexible Equity Fund, recently argued that MasterCard is a “truly wonderful” business that requires minimal reinvestment and throws off plenty of cash, and yet its valuation is not dramatically higher than the market average.
+MasterCard was in the top five of the Barron’s 500 ranking of the largest public companies and is also a big holding at the historically outperforming five-star Janus Balanced Fund.
+Moreover, China is finally allowing foreign companies to apply for licenses to clear domestic payments, an estimated $7 trillion market previously monopolized by UnionPay, the largely state-bank-owned organization. While access to the Chinese market would be a huge growth engine for both Visa and MasterCard, MasterCard has the advantage of an established history with UnionPay, as the two firms inked an agreement for co-branded cards five years ago.
+Additionally, MasterCard, which has been increasing European volume at double-digit (constant currency) rates even during the worst of the Continent’s downturn, was recently more upbeat about Europe’s macro backdrop, saying it sees improvement vis-à-vis six months ago.
+A potential acquisition of Visa Europe by Visa wouldn’t do much to dent MasterCard, argues Jefferies’ Jason Kupferberg, and it could even be a positive development: “If Visa ends up paying a higher-than-expected price for Visa Europe, it could force Visa to try to raise prices post the acquisition (in order to achieve accretion targets), which in turn could benefit MasterCard by giving them more pricing flexibility and therefore increased competitiveness.”
+While the regulatory front is relatively quiet in the U.S., some investors are leery of new rules in the eurozone expected to go into effect this summer. Deutsche Bank’s Bryan Keane, however, says the “positives outweigh the concerns,” as he expects MasterCard’s fees will be “resilient despite lower interchange fees,” which could also spur incremental volume gains.
+Another concern is melting away: Fears that the rise in mobile payments would allow for a disruptive new entrant to the payment world seem unfounded, especially as Apple’s ( AAPL ) Apple Pay turned the tech giant into a partner rather than a rival. MasterCard and Visa remain at the forefront of the market even as mobile payments grow exponentially.
+To be sure, neither stock is risk-proof. Both need the global economy to keep expanding and for domestic and international consumers to feel comfortable using credit and debit cards despite the scars of financial crises and data breaches. Nor will the specter of government mandates and regulation ever truly go away.
+Yet Capital One and MasterCard are strong companies that treat their shareholders generously and appear to have a long runway for future growth. In all, they deserve more credit.
+Full Disclosure • The Westwood Income Opportunity Fund owned 868,600 shares of Capital One as of March 31, 2015. • The JPMorgan Value Advantage Fund owned 2,533,500 shares of Capital One as of April 30, 2015. • The Matthew 25 Fund owned 515,000 shares of MasterCard as of March 31, 2015. • The Brown Advisory Flexible Equity Fund owned 94,108 shares of MasterCard as of March 31, 2015. • Jefferies analyst Jason Kupferberg has a Buy rating and $98 price target on MasterCard. • Deutsche Bank analyst Bryan Keane has a Buy rating and $100 price target on MasterCard.
+Comments? E-mail us at editors@barrons.com
+
+Story 23
+Access Denied - Sucuri Website Firewall
+If you are the site owner (or you manage this site), please whitelist your IP or if you think this block is an error please open a support ticket and make sure to include the block details (displayed in the box below), so we can assist you in troubleshooting the issue.
+Block details:
+
+Story 24
+It’s being predicted that by the end of this year, mobile payment transactions in the U.S. will grow 210 percent. Despite this impressive gain, it turns out that not everyone is taking advantage of mobile payments.
+In fact, in a recent study on eCash we found “Only about 1 in 5 people (20.7%) in the U.S. that have an iPhone that works with Apple Pay, (this would be the iPhone 6 and newer versions), have even tried Apple Pay.”
+To add salt to the wound, Tech Insider also discovered that 56 percent of users “have only used Apple Pay once during a typical week, and 15.3 percent say they have ‘never’ used it during the week.”
+Why aren’t more people enjoying the convenience and ease of mobile payments? There are always numerous reasons for the variance in behaviors in the world of tech. In the world of mobile tech — where a monetary system is being set up and becoming an accepted avenue for the exchange of money and payments — there seems to be some concern.
+Some have said that the system for money exchange in the mobile world was broken before it began. But is this statement true? Let’s address some of the concerns about the world of mobile payments.
+Security, security, security
+Arguably the biggest concern regarding mobile payments is the fact that people are worried about security. In fact, during the Money 20/20 2015 Conference, Bryan Yeager, an analyst at eMarketer Inc., claimed that “mobile payment user growth is projected to grow to 37.5 million users in 2016, up 62%.”
+However, it seems security is still prohibiting some of the mobile payments. Yeager informed the audience that “57% of US internet users cited security concerns the main reason they were hesitant to use mobile payment services.” He also stated that “62% of US smartphone owners that don’t use or plan to use a mobile wallet cited worries about security as the reason.”
+No global standard
+International compatibility is another concern when using mobile payments. As Raomal Perera, CEO of Valsita, says, “The reality is that until common interfaces are defined, based on current standards users will not properly engage in m-commerce. Only then will consumers see the benefits of using their mobile phone as an ‘electronic wallet’ that allows them to conduct transactions more conveniently than more traditional channels.”
+Once a global standard is adopted, consumers will be able to “use any application without having to install new software each time they make a purchase,” Perera adds. This will simplify the purchasing process and spark innovation.
+We may come to a point when cards and mobile wallets stored on our smartphones will come to an end completely.
+Not yet obtaining a global standard also makes using mobile payment systems a hassle when traveling abroad. For example, Vodafone’s M-Pesa may work perfectly in parts of Africa, but users would have trouble using the same system if they are traveling through Europe.
+Visa is attempting to change the money problems inherent when traveling to other countries with its Digital Enablement Program (VDEP). The U.S. is now accepting EMV (Europay, MasterCard and Visa), which will in turn put this concern to rest. The future of mobile payments is getting brighter as companies like Visa, MasterCard and AMEX are coming together, but, currently, no standard is in the works.
+Difficult to uninstall m obile wallet apps
+What happens when a mobile app shuts down or you’re not satisfied with the service? You would think that you could easily uninstall the app. This may not always be the case. Early adopters to the mobile wallet apps used apps such as Softcard, which later closed their business and users couldn’t uninstall the app.
+As PaymentsSource states, “When a mobile wallet fails, it doesn’t go away. Companies can upgrade dormant apps and remove their functionality, but the apps stay on users’ phones.” To observe this problem firsthand, merely take a look at the “Wallet” app on your iPhone. Most likely every person reading this article has the wallet app on their iPhone — and you can‘t remove it either. Why?
+Mobile technology remains fragmented
+If you’re a merchant toying with the idea of accepting mobile payments, you have different options: NFC, code based and cloud based. Depending on your industry and clientele, each option has its pros and cons, which can make it difficult to choose which option to use.
+Mobile payments will remain a tough sell for those who are set in their ways.
+For example, if you just purchased a new EMV POS system that comes equipped with an NFC reader, why would you invest in a code-based or cloud-based system? But, what if a large percentage of your customers prefer code-based or cloud-based systems? Are you willing to invest in those systems? Obviously, the answer would lie in finding the percentage of your customers who request or require a certain system in order to use your product or service.
+Old habits die hard
+According to studies conducted by The Pew Charitable Trusts, there remains a portion of the population who are satisfied with their current banking system because they feel it is more secure and less complicated than mobile payments. Additionally, non-users of the mobile payment system also enjoy the incentives their credit or debit cards provide.
+Until more people feel the safety issues have been addressed, and they learn how to use the mobile systems with ease, mobile payments will remain a tough sell for those who are set in their ways.
+The future of m obile p ayments
+Despite the convenience and potential that mobile payments currently possess, there remains room for improvement. This is where innovation will come into the picture. According to Bijan Khosravi, founder and CEO of InBounce, this innovation will include:
+Peer-to-peer payments. The ability to send people money directly and simply by using your mobile device is already here, thanks to apps such as Venmo, Dwolla, Due (personal company) and even Facebook Messenger. Apple is also getting into the action. The Wall Street Journal states that Venmo is already “favored by young adults and teenagers who particularly like a feature in which they can list their payments on a social-media feed.”
+Plastic will be replaced. Instead of carrying a number of credit or debit cards, smart phones will consolidate your cards into one location. This consolidation will also be the case for gift cards. Google Wallet and Apple Pay are already using this technology, but LoopPay is another interesting option that will also store gift and loyalty cards.
+Centralized awards points. To pry customers away from traditional reward systems, merchants can use a centralized network where they can accept loyalty rewards from each other. For example, you could use your airline miles from Delta for your purchase at Starbucks.
+Charitable contributions will evolve. People will be able to donate to socially conscious projects like never before. HandUp, for example, is a startup that allows you to view the profile of a person in need of financial help and donate money to that specific person on the profile or SMS.
+Virtual banks will replace brick-and-mortar institutions. There will be a point when we no longer have to rely on physically visiting a bank to create an account and conduct all of our banking needs. This will become important for the unbanked population who previously did not have the means or ability to physically visit a bank to open an account. This will also assist employers in paying employees who do not have a bank account; dopay is a payroll solution that accomplishes this task.
+But what about the biggest concern involving mobile payments: security?
+Currently, companies, such as Android, have implemented something called host card emulation (HCE). Bell ID describes HCE as “a technology that emulates a payment card on a mobile device using only software. This approach offers technical and business benefits to a wide range of mobile industry stakeholders who are active in the near field communication (NFC) payments ecosystem.”
+Previously, mobile payment credentials were stored on the device inside hardware known as a secure element. Thanks to HCE, this secure element is now outside of the device. This improves security because it removes third-party involvement at a low cost.
+Another company addressing the security of mobile payments is ID Global Solutions Corporation and its IDComplete. This company says they can prevent fraud because, “IDComplete utilizes a secure encrypted irreversible tokenization process with multi-factor authentication to enable secure real-time cardholder verification.”
+Beyond that, technology could also lead to even more interesting developments in the payments industry. One of the most widely discussed innovations in the mobile payment world is cryptocurrency like bitcoin and the blockchain. Blockchain is estimated to be able to save global businesses up to $550 billion each year. Currently, companies like IBM, Intel, Cisco, JP Morgan, Wells Fargo and State Street have created their own global online ledger known as the Open Ledger Project. The hope is that this blockchain, along with other alterations, will “provide a more secure, more reliable, more transparent, and more automatic way of exchanging money, securities, and other assets.”
+Furthermore, as mentioned in Wired, “it will also let you trade assets as easily as you trade emails today — and you can trade them without putting your trust in any one person or organization. This could eliminate many of the slower technologies and expensive middlemen that clog up today’s markets.”
+Finally, we may come to a point when cards and mobile wallets stored on our smartphones will come to an end completely. There are a number of companies who are experimenting with using biometrics as a payment solution. This could include everything from fingerprints, facial recognition and heartbeats as way to verify a payment.
+Whatever the hurdles that must be tackled, it seems that our mobile payment options are only going to increase. Companies and innovators are going to have to solve some of the problems and issues surrounding the mobile payment world. By addressing, answering and solving the questions that have been raised, companies will be able to quiet the hesitation of its users by providing optimal solutions for the convenience of mobile payments.
+
+Story 25
+Humana Chief Medical Officer Roy Beveridge, M.D., was meeting with a provider earlier this month when the organization’s CEO said something he’d been waiting to hear.
+“You know, I don’t think of Humana so much as an insurance company as an IT company who is helping us with the data that we need in order to deal with our population health tools,” the CEO said, according to Beveridge.
+Roy Beveridge
+As it so happens, that’s precisely how Beveridge views his company’s role in an increasingly value-driven payment world. Humana, one of the nation’s largest health insurance companies that specializes in Medicare Advantage plans, sees itself as a critical data partner for providers in an era where more comprehensive data is becoming an invaluable tool. Humana’s approach relies on putting previously inaccessible information—like how often a patient filled their prescription or which diabetes patients also suffer from a behavioral health condition—in front of physicians and providers to improve care and drive value.
+“Sometimes I think we’re becoming more of a data analytics company than anything else,” Beveridge said in an exclusive interview with FierceHealthcare.
+RELATED: Cleveland Clinic, Humana highlight data partnerships in a value-based climate
+These kinds of data partnerships were virtually impossible in a fee-for-service environment that pitted payers and providers against one another. Insurers were tasked with sniffing out overutilization, while providers lacked any financial incentives to prevent unnecessary admissions. Currently, 64% of Humana’s Medicare Advantage members are in value-based payment contracts, and Beveridge said data and analytics play a critical role in insuring that those contracts provide physicians with an opportunity to succeed.
+Below are some of the highlights from FierceHealthcare's conversation with Beveridge.
+Editor’s Note: The following has been lightly edited for length and clarity.
+FierceHealthcare: You say providers see you as more of a health IT company. Do you look at yourselves that way? Is that a role you’ve embraced?
+Roy Beveridge: Increasingly, our role is to support the value-based physician. If you’re going to take that point of view, working with them and helping them understand what their data shows and what our data shows, it all becomes one. Then you begin to optimize care for their patient, our member.
+It’s kind of a mindset difference. If we begin to acknowledge that their patients are our members and that we have a completely aligned interest, then things go well. Remember, in the fee-for-service world you don’t have that alignment.
+FH: You’re at 64% value-based payment contracts right now. What’s stopping you from getting to 100%?
+RB: With MACRA, all the doctors are saying, “I want to get into risk as quickly as possible.” Here’s what we’ve learned over the past 10 years: Unless you spend time teaching the physician how to do this and get into value relationships, they are going to fail.
+In order to be successful in a value relationship, you can’t see a patient for 12 minutes twice a year. You actually have to see them for about half an hour, six to 12 times per year. If the mindset is, I can just do this because I’m a good doctor, they are going to fail because they are still doing things in a fee-for-service manner.
+RELATED: Q&A: Humana, Oak Street execs share keys to value-based pact
+They have to learn how to use the data analytics we’re giving them. They have to say, "This data is really important because it is telling me which patient I need to pay attention to within the population"—if they don’t learn that, they’re not going to be successful. Data and analytics are what drives the intelligence which allows them to be the best doctors they can be.
+FH: What do you see as the biggest challenge for payers in terms of not just getting that data in front of physicians but making it actionable?
+RB: Physicians have to have information that is actionable that they see in their EHR or is literally put in front of them, and EHRs tend not to do that at this point. We designed something to get it into the EHR, but you also have to be careful you don’t have alert fatigue.
+We have to figure out a good balance between feeding people data and having actionable data. We’ve got the technology to get all the data there, it’s a question of having the intelligence to present it so people can prioritize and take action with it. We, and others, are still trying to figure out what is the best way of doing that.
+I don’t want you to think we’ve got this figured out. We’ve got it figured out better than most, but we still recognize that what works in Florida might not work in Chicago. Medicine is local, and you have to figure out what works in particular areas and for particular groups of people.
+FH: You say you’ve got it figured out better than most. What is Humana doing that is different, or better, than the rest of the industry in terms of using data?
+RB: I think that we’ve got a better line of sight to understand clinicians. We’re working with providers to understand what’s the best way of supporting them. Other insurers are sitting there talking about how they can do things for their members and do things for themselves. What you keep hearing from us is how can we do things to help our providers do better. If the providers do better then our members are being treated better, and that’s ultimately what we need to have.
+FH: Is there something that allows you, as a company, to have that perspective?
+RB: In part, we’ve been doing it longer than most, so we really do understand risk. We understand this concept of value. We recognize that it’s the long-term relationship with providers that is important. We could give value and risk to a whole bunch of folks right now—that other 36%—but I don’t think they’d do very well. That’s not good for our member, it’s not good for that patient and it’s certainly not good for the provider.
+Other people will say, “We’ve got the best IT systems.” Our IT systems are pretty good. It’s the difference between an iPhone 6 and an iPhone 7—they are both pretty darn good. The question is how do you use it. It’s not a pure IT game; it’s how you use it and with whom you use it.
+
+Story 26
+Challenges currently identified as stunting the growth of payment start-ups in Nigeria, include un-scalable business model; insufficient funding; no advantage over existing solutions; skills shortage; regulation and too much competition.
+Africa Payments Innovation Jury 2017, an insider’s view to the Continent’s payment and Fintech services, presented at the just concluded Interswitch organized ‘Connect Conference’ made available to The Guardian, said the electronic payments industry experiences continuous innovation on a worldwide basis, with new entrants aiming to grab a share of the market, and established players trying to defend and grow their existing business.
+Africa, according to the jury, is no exception to that trend, and there is additional impetuses in the region to innovate because of the opportunity to bring large sections of the population that currently have access to electronic payment services into the digital payment world.
+However, according to them, there are challenges for the industry because operating margins are always under pressure, but the payment sector remains attractive because the market continues to expand, and there is opportunity for players to participate in the transaction value.
+Giving further insight, the Jury explained that un-scalable business model accounted for 27 per cent of reasons for payment start-up failures; insufficient fund 24 per cent; no advantages over existing solutions 15 per cent; skills shortage 13 per cent; regulation 12 per cent and too much competition nine per cent.
+The Jury disclosed that African payments and Fintech entrepreneurs are faced by a shortage of venture capital — more acute than in other regions of the world, which is restricting their ambitions.
+They stressed that the shortage of investment is marked at the angel and series level. A stage with many investors opting to wait until the business model is proven and the company is profitable.
+The Chairman, Africa Payments Innovation Jury, John Chaplain, said the main reason for the failure of start-ups is that the business models are not scalable, which is attributed to a shortage of strategic and product development skills.
+Chaplain advised that when introducing electronic payments into substantially under-banked markets, although breadth of service offering is critical to long term profitability. “It is important to identify the first use cases that encourage consumers to use digital payments services. Arguably when a consumer uses one electronic payment service regularly, it is easier to encourage them to use further services—but the first service is key.”
+The Global Jury, which includes eight African members, rated Asia as the home to most payments innovation over the next two years, a position that it has held since inaugural 2008 jury.
+The top rating for Asia comes from China now being widely seen as the global Fintech leader and other countries such as Malaysia, Singapore, and Thailand rapidly modernising their payments infrastructure. Africa is rated just behind Europe and ahead of North America and Latin America.
+According to the Jury, with 81 per cent preference, Africa is seen as the best location to start payments business today.
+‘Africa is at the beginning of its growth curve with significant opportunity for leapfrogging international trends. The potential is very promising and the market is still virgin. East and West Africa would be the preferred markets,” the Jury stated.
+
+Story 27
+CLOSE U.S. stocks moved higher Thursday as investors enjoyed a second day rally on the heels of Donald Trump's presidential election. Shares of European Banks including Deutsche Bank and Credit Suisse rose on hopes of less burdensome regulations under a Trump administration. Video provided by TheStreet Newslook
+Buy Photo James S. Vaccaro, president and CEO of Manasquan Bank poses with the Howell branch team in Howell, NJ Monday, November 7, 2016. (Photo: Tanya Breen)Buy Photo
+HOWELL - Manasquan Bank has opened a new branch on Route 9 as part of an expansion strategy that will stretch into Ocean Township next year, the company's chief executive officer said.
+James Vaccaro said the new branches will give Manasquan visibility for potential customers who might be disenchanted with their options - even thought they seem to run counter to the trend of consumers who are banking online and with mobile devices.
+"You could open a branch on every corner and hit singles and doubles," Vaccaro said. "You can’t do that anymore. You have to be very judicious and very strategic in where you go."
+Wall Township-based Manasquan Bank, a mutual bank owned by its depositors has $1 billion in assets and nine branches. The company reported net income of $5.3 million for the quarter that ended Sept. 30 compared with net income of $5.4 million the same quarter a year ago, according to regulatory filings.
+It is trying to capitalize on a banking industry that has begun to change. Wells Fargo, the biggest bank in Monmouth and Ocean counties, saw its share of deposits in the market fall from 18 percent in 2015 to 16.3 percent in 2016, according to the Federal Deposit Insurance Corp., and that was before it was lambasted by Congress for opening customer accounts without their knowledge.
+READ MORE: Fired Manchester teller sues Wells Fargo
+ON THE BANKING SCENE: Bank of the future? Wave to OceanFirst's 'PTMs'
+"The big banks have been out-of-favor for a while, and the community banks have been growing," said James Carroll, a business professor at Georgian Court University in Lakewood. "You feel safe in the bank. I don’t feel safe in some of the big banks because they're always trying to sell me something."
+Vaccaro said Manasquan Bank has been the beneficiary of several Wells Fargo defections. And it doesn't seem like a coincidence that it has launched a new advertising campaign with the motto: "We never left the basics."
+It's part of a transformation since Vaccaro joined what then was Manasquan Savings Bank four years ago. The company for more than 140 years featured an Indian head as its logo. It dropped "Savings" from its name and, recognizing the Indian head could be viewed as racially insensitive, designed a new logo that includes a rope signifying strength and endurance and an infinity sign signifying that it is a full-service organization.
+Buy Photo James S. Vaccaro, president and CEO of Manasquan Bank stands inside the new branch in Howell, NJ Monday, November 7, 2016. (Photo: Tanya Breen)
+About 20 customers were upset about the bank's decision to drop its long-time logo, Vaccaro said.
+"They thought we were abandoning the tradition," Vaccaro said. "I said, 'No we’re not. We’re embracing the tradition, but we’re going to deliver it in a much more user-friendly fashion. One of the reasons we change is we have to remain relevant and sustainable."
+TECHNOLOGY: Walmart jumps into the mobile payment world
+NEW SKILLS: Job credentials, degrees most in demand in NJ
+Among the changes: The bank shifted from one that focused primarily on residential loans to one that now is evenly divided between residential and business loans. And it is redesigning its branches, replacing teller counters with pods, where universal bankers can open accounts, cash checks and explain products.
+The counter "kind of creates a barrier between customer service and the teller," Nancy Steck, the branch manager in Howell, said. "This eliminates that barrier and creates unity within the branch."
+Buy Photo Nancy Steck, assistant vice president and retail branch manager, speaks to Howell branch team members Karen Pringle, retail assistant branch manager and assistant treasurer, and Ellen French, universal banker I, in Howell, NJ Monday, November 7, 2016. (Photo: Tanya Breen)
+Other banking news:
+The parent company of OceanFirst Bank said its net income more than doubled during the third quarter because of the acquisition of Cape Bancorp. Toms River-based OceanFirst Financial reported net income of $9.1 million, or 35 cents a share, compared with net income of $3.7 million, or 28 cents a share, the same quarter a year ago. OceanFirst also said it would increase its quarterly dividend by 15 percent.
+The parent company of Two River Community Bank said its net income rose 57.7 percent thanks in part to an increase in commercial and residential real estate loans. Tinton Falls-based Two River Bancorp said its net income was $2.6 million, or 33 cents a share, compared with net income of $1.68 million, or 21 cents a share, the same quarter a year ago.
+Shore Community Bank said its net income increased 56 percent during the third quarter because it made more loans and managed its expenses, Robert English, president and chief executive officer, said. The Toms River-based bank reported net income of $468,393, or 17 cents a share, compared with net income of $301,055, or 11 cents a share, the same quarter a year ago.
+Michael L. Diamond; 732-643-4038; mdiamond@gannettnj.com
+Read or Share this story: http://on.app.com/2fhIJSi
+
+Story 28
+One of the most notable aspects of Apple's iPhone 6 announcement last night was the launch of the company's mobile wallet, Apple Pay .
+Apple Pay works with iPhone 6 and iPhone 6 Plus thanks to an in-built near-field communication (NFC) chip – similar to those used in Oyster cards and contactless credit and debit cards in the UK.
+iPhone owners in the US will be able to use this chip, together with the iPhone's Touch ID, to make secure payments by simply touching their iPhone to a terminal in a shop.
+Apple Pay will also work with the Apple Watch, which is compatible with iPhone 5, iPhone 5c and iPhone 5s. This means that even customers who are not ready to upgrade to Apple’s latest iPhone will be able to take advantage of Apple Pay.
+During the company’s launch event, Apple’s senior vice president of Internet Software and Services, Eddy Cue, stressed that security and privacy is at the core of Apple Pay.
+“When you’re using Apple Pay in a store, restaurant or other merchant, cashiers will no longer see your name, credit card number or security code, helping to reduce the potential for fraud,” he said.
+“Apple doesn’t collect your purchase history, so we don’t know what you bought, where you bought it or how much you paid for it. And if your iPhone is lost or stolen, you can use Find My iPhone to quickly suspend payments from that device.”
+The company added that credit and debit card numbers are not stored on the device, nor on Apple’s servers. Instead, a unique “device account number” is assigned, encrypted and stored in the secure element on the iPhone or Apple Watch.
+Each transaction is authorised with a one-time unique number, and instead of using the security code from the back of your card, Apple Pay creates a “dynamic security code” to securely validate each transaction.
+This all sounds very reassuring, and security experts have praised the feature, claiming it as a "huge win for credit card security" – particularly in the United States, where most people still use payment cards with magnetic stripes.
+"This is really a great way for Apple to push a much more secure payment authentication process out to the masses," said Tom Pageler, chief information security officer at DocuSign.
+"It appears that users will synchronise Apple Pay with their credit cards through their iTunes account, which is linked to their device. The data provided to the merchant won’t be card data, but some type of dynamic data that can only be used once.
+"This will be a much safer transaction for consumers and merchants because the data is created for a one-time transaction-specific use case. The large data breaches we’ve heard about recently at Home Depot and Target would not be able to occur again because transactions don’t produce reusable data."
+Mark Bower, vice president of product management at Voltage Security, also praised the new system, claiming that Apple has shone a light on the need for the payment world to move on from vulnerable static credit card numbers and magnetic stripes to protected versions of data.
+"Through the use of this data-centric security strategy, Apple Pay reduces risk of data breaches and credit card theft where it is supported," he said.
+However, Tobias Schreyer, co-founder and chief commercial officer at the PPRO Group, said that security is still an issue that consumers need to be aware of – especially considering the considerable amount of loss and theft associated with mobile devices, and the increase in targeted attacks.
+"This development increases the need for biometrics as a confirmation process, providing customers with an easier, more efficient experience which they’ve come to expect, and which will be a major change within the industry," said Schreyer.
+Graham Hann, partner at international law firm Taylor Wessing, also said that security of payment data will remain a key concern among consumers, and statistics suggesting that iPhones are the most stolen handset might hinder take-up slightly.
+Interestingly, by allowing iPhone 5 and 5c owners to use Apple Pay via the Watch, Apple will potentially be allowing users to make payments without any biometric identification, as neither of these devices have Touch ID.
+However, it is thought that the value of transactions which are carried out without the fingerprint reader will be limited – just as contactless card payments in the UK are limited to under £15.
+Other security experts have questioned the reliability of the fingerprint scanner. Adam Smith, director at Piccadilly Group, said: “Many consumer grade fingerprint scanners are less than infallible – so we'll have to see how good Apple's scanner is in practice."
+Dmitry Bestuzhev, Director of the Kaspersky’s Global Research and Analysis Team Latin America, also pointed out that the Touch ID on the doesn’t always work properly - for example, if your fingers are wet - which is why Apple also allows customers to input a PIN. “This shortcut scheme can abused by cybercriminals while authorising payments,” he said.
+Tim Erlin, director of IT risk and security strategy at Tripwire, said that NFC isn’t as well tested from a security perspective as the more common wireless technologies.
+“If the Apple Watch takes off in the market, it will quickly become an interesting target for attackers. We may see the rise of the modern day pickpocket. After all, attackers follow the money, so if Apple puts your money ‘on’ a watch , it suddenly becomes a very interesting target.”
+However, Mark Prior-Egerton, solutions marketing manager at The Logic Group, said that a lot has been done to allay security concerns about NFC in recent years, since the launch of other mobile wallet solutions such as the Google Wallet and PayPal apps.
+“The move towards host card emulation, (a technology that emulates a payment card on a mobile device using only software), for instance, has negated the common fear of ‘what happens if I lose my phone?’ This will help reassure consumers as they move to this new way of payments,” he said.
+It is likely that the true security implications of Apple Pay will only become clear once iPhone 6 has launched – until then, the industry can only really guess at the potential pitfalls.
+However, Apple has made it clear that the security of its mobile wallet is a top priority, and with buy-in from American Express, MasterCard and Visa, as well as many of the most popular US banks, the industry has a huge vested interest in making it work.
+
+Story 29
+This week, the U.S. Postal Service is launching 7-day holiday delivery service for the first time, allowing procrastinating gift-givers extra time to get their packages in the mail. But the extra day each week isn’t merely meant as a convenience during a stressful time of year—it’s an indication of where the post office is heading.
+Last year, as the USPS’s total mail volume continued its decade-long decline (from 158 billion pieces to 155 billion), shipping and package volume actually increased by 300 million, an jump of 8.1% from the year before. Revenue from packages increased 9.1%, and that growth helped the post office increase its operating revenue by almost $600 million.
+Package delivery is the one sector that appears to show the promise of significant growth for the U.S. Postal Service, which has lost money every year since 2007 and recently announced another loss of $5.5 billion this year. The struggling institution has tried a number of ways to get back in the black: reducing its workforce, closing distribution plants, cutting Saturday delivery, even urging Congress to allow it to deliver beer and wine. Some of those moves have cut costs (reducing employees and plants). Others have been blocked by Congress (eliminating Saturday delivery and shipping alcohol). But the only move that is driving significant revenue growth is packages.
+“We lost the bill payment world, which was very profitable for us,” says Patrick Donahoe, the outgoing postmaster general. “But the nice thing is, with e-commerce and the Internet, we’ve had the opportunity to deliver packages for companies like Amazon.”
+See the Factories Where Amazon Can Move 426 Items a Second David Paul Morris—Bloomberg/Getty Images Andrew Yates—AFP/Getty Images David Paul Morris—Bloomberg/Getty Images David Paul Morris—Bloomberg/Getty Images Andrew Yates—AFP/Getty Images Andrew Yates—AFP/Getty Images David Paul Morris—Bloomberg/Getty Images Peter Ending—AFP/Getty Images Simon Dawson—Bloomberg/Getty Images 1 of 9 Advertisement
+The postal service has increasingly looked to the Internet, the rise of which has been at the heart of the post office’s declines, as its possible savior, partnering with sites like Stamps.com, for instance, which allows people to print postage from home without trekking to the post office. More significantly, the USPS inked a deal with Amazon allowing it to deliver the online retail giant’s packages on Sundays at regular rates, beginning in New York and Los Angeles before moving out to other metropolitan areas around the U.S.
+The agreement with Amazon is reflection of an ever-more-convenient and competitive delivery industry that includes companies like the direct-to-time grocery shipper FreshDirect, alongside eBay, Walmart and Google, all three of which are experimenting with same-day delivery, as is Amazon. But it’s also a sign of the USPS’s increasing commercialization and its continued reliance on partnerships with other companies. While the USPS has long helped FedEx and UPS get its packages to their final destination in what’s called “last mile” delivery, the post office has recently expanded its services into big-box retailers like Staples and Costco, as well as establishing “village post offices” inside convenience stores. And that’s likely just the beginning.
+“The obvious area to grow, because people are doing more Internet shopping, is the parcel post,” says Rick Geddes, a Cornell University public policy professor who studies the post office. Still, Geddes says packages alone can’t fix the post office’s problems. “The notion that delivering parcels will somehow be a magic bullet is false,” he says. “[The USPS] needs to become more like a regular commercial entity.”
+So far, package delivery is nowhere close to making up for revenue losses from first-class mail, because the volume isn’t as high and it’s not as profitable. Geddes argues that the postal service has to reform in a similar way as post offices in the European Union, New Zealand and Australia, which have all eliminated their monopoly on first-class mail, allowing them to enter new commercial markets while setting their own rates without government approval. Australia’s post office, for example, runs actual retail stores that sell greeting cards, gifts and stationary alongside a postal services section.
+But for now, the post office is hoping that 7-day holiday delivery, which will last through Christmas Day, will not only be a convenience for customers, but will give the faltering institution a financial boost. USPS is predicting parcel growth to increase by 12% from last year’s holiday season—equaling 450 million to 470 million packages.
+Contact us at editors@time.com.
+
+Story 30
+Bloomberg
+Bloomberg | Quint is a multiplatform, Indian business and financial news company. We combine Bloomberg’s global leadership in business and financial news and data, with Quintillion Media’s deep expertise in the Indian market and digital news delivery, to provide high quality business news, insights and trends for India’s sophisticated audiences.
+
+Story 31
+To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.
+Is this happening to you frequently? Please report it on our feedback forum.
+If you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.
+Reference ID:
+
+Story 32
+Multiple sources in the banking industry say they have traced a pattern of credit card fraud that suggests hackers have compromised point-of-sale registers in gift shops and restaurants at a large number of Hilton Hotel and franchise properties across the United States. Hilton says it is investigating the claims.
+In August, Visa sent confidential alerts to numerous financial institutions warning of a breach at a brick-and-mortar entity that is known to have extended from April 21, 2015 to July 27, 2015. The alerts to each bank included card numbers that were suspected of being compromised, but per Visa policy those notifications did not name the breached entity.
+However, sources at five different banks say they have now determined that the common point-of-purchase for cards included in that alert had only one commonality: They were all were used at Hilton properties, including the company’s flagship Hilton locations as well as Embassy Suites, Doubletree, Hampton Inn and Suites, and the upscale Waldorf Astoria Hotels & Resorts.
+In a written statement, a Hilton spokesperson said the company is investigating the breach claims.
+“Hilton Worldwide is strongly committed to protecting our customers’ credit card information,” the company said. “We have many systems in place and work with some of the top experts in the field to address data security. Unfortunately the possibility of fraudulent credit card activity is all too common for every company in today’s marketplace. We take any potential issue very seriously, and we are looking into this matter.”
+As with other recent card breaches at major hotel chains — including Mandarin Oriental and White Lodging properties — the breach does not appear to be related to the guest reservation systems at the affected locations. Rather, sources say the fraud seems to stem from compromised point-of-sale devices inside of franchised restaurants, coffee bars and gift shops within Hilton properties.
+It remains unclear how many Hilton properties may be affected by this apparent breach. Several sources in the financial industry told KrebsOnSecurity that the incident may date back to November 2014, and may still be ongoing.
+This is a developing story. More as updates become available.
+Tags: Hilton Hotel breach
+
+Story 33
+Challenges Facing Existing P2P Payment Solutions
+Views of Maxime de Nanclas, COO and Co-founder of Mobeewave
+
+The future looks bright for mobile payment. Banks, original equipment manufacturers (OEMs) and tech giants are all committing time, money and effort to carve out a piece of this burgeoning market. And if eMarketer’s forecasts are anything to go by – that mobile payment transactions will grow by 210% in 2016 – it’s easy to see why.
+Peer-to-peer or person-to-person (P2P) payment solutions, which make it possible for money to be sent to individuals, are also enjoying significant growth within this space. P2P players like Venmo and Square Cash are leading the charge in this area – Venmo has proven to be particularly popular, with the company reporting that more than $1 billion in payments were made through their app in January 2016.
+The ultimate prize for P2P solutions is considerable. Let’s Talk Payments predicated that the size of the US P2P payments market would reach anywhere between $70 billion and $90 billion in 2015, while Business Insider has previously suggested that the volume of global P2P payments is over $1 trillion dollars.
+But the success of P2P payment solutions has inevitably drawn the attention of tech giants: Facebook has already made it possible to exchange payments through Facebook Messenger, while Apple and Google are expected to play a greater role in this area. Faced with the likelihood of increased competition, the success of existing P2P payment solutions is dependent on their ability to overcome certain key challenges.
+Overcoming the obstacles to growth
+To ensure continued success, P2P payment companies need to remove the barriers to growth. In an already overcrowded FinTech space, it’s important to reach as large an audience as possible.
+At present, this is not a reality for many of the leading lights in this area – like Venmo and Square Cash – who operate within regional constraints. While the US market is by no means small, companies that cannot provide their service to users outside of North America are in danger of falling behind.
+When you consider that an OEM could gain a greater foothold in this space by incorporating a technology to allow users to collect money in-person through their mobile wallets, it is possible that the tech giants could soon leapfrog existing P2P players.
+Staying vigilant in the face of security threats
+Beyond opening up additional avenues for growth, existing P2P solutions must address the ongoing challenges posed by pressing and potential security threats.
+When it comes to executing transactions, most people are understandably wary of sharing personal and financial information. Frequent reports of high-profile data breaches in recent years have brought the importance of security into clearer focus for users.
+When it comes to FinTech, the threat posed by cyber hackers is by no means imaginary. A recent Android attack on the banking apps of Australia’s largest banks – including ANZ, CBA, NAB and Westpac – targeted millions of users.
+Faced with such organized criminal efforts, existing P2P services that rely on cloud-based services must invest considerable resources to ensure their users’ data is protected. Measures such as tokenization must be adopted to counter such threats.
+Alternatively, the security challenges thrown up by dealing with cloud-based systems may be avoided altogether if a solution instead opts to facilitate transactions that are secured within a device’s hardware. Such approaches ensure sensitive information is encrypted in the embedded element – removing the potential for it to be hacked.
+The problem of flexibility requires an open solution
+The sustainability of existing P2P solutions depends on whether they can continue to provide a flexible service that really meets the needs of their users.
+While many tools make it easy to share money between friends and family, those that rely on closed loop systems are not quite as convenient as they appear. Requiring both parties involved in a payment transfer to be signed up to the same service limits the flexibility of the solution and can potentially add a hurdle to getting paid back.
+Closed loop solutions also become problematic when it comes to receiving payment from a stranger. If you’re selling or renting something on craigslist or Kijiji, or holding a garage sale, you don’t want to scare off a potential customer by asking them to sign up to a particular platform, nor does either party necessarily want to share their personal information or contact details.
+Today’s mobile payment users obviously need the option to both make and receive payments through their mobile phones. But more than this, they need solutions that take into account how the transactions they carry out can vary depending on who they’re accepting payment from. Only truly open loop solutions can offer individuals the flexibility to painlessly get paid back from someone they know and receive payment from someone they don’t.
+There are frequent occasions when we need the ability to essentially become merchants for a day. From service providers – like tutors, landscapers, babysitters or personal trainers – to fundraisers to those of us simply selling our stuff, we all need a convenient way to collect the money we’re owed that makes the process as easy as possible for the person paying.
+Open loop solutions enable users to easily accept payment from anyone – removing the need for the parties involved to connect through the same platform or exchange personal information. This approach coupled with a means to accept payment from a contactless credit card easily and securely through NFC-enabled mobile devices would solve the problem of getting paid by strangers – without requiring them to share personal information with you or a third party.
+Addressing the awkwardness of owing and being owed
+P2P payment solutions also need to address the psychology of debts. For the person who is in debt, they are under pressure to pay back the money they owe. The more time that passes the greater that pressure grows and the absence of a means to instantly repay a debt means the indebted person has to endure the burden of being in debt for a certain period.
+On the other side of the equation, the person who is owed money can be placed in an equally awkward situation. Without a way to get repaid straightaway, they are not only forced to wait to get paid back, but also put in the difficult position of having to remind the other person about the debt. The act of chasing someone up to repay a debt can be problematic, especially as many people do not want to send the message that they are in a particular hurry to get paid back – indirectly implying they are in a difficult financial situation.
+Addressing the potentially awkward situation between the two parties is something that Venmo does particularly well. Their method of offering users the ability to send reminders that have been generated by the application automates this element of the interaction between the person who owes and the person who is owed. This can be a helpful prompt for the person in debt and good way for the person awaiting repayment to avoid the awkwardness of asking to be paid back.
+An alternative approach to addressing the awkwardness surrounding owing money and being owed is to avoid it altogether. By making it possible to collect money in-person from a contactless credit card using a mobile device, P2P payment solutions could solve this challenge before it even arises. By giving the payer the option to repay his debt instantly such a technology would remove any potential burdens or difficulties for both parties.
+—
+About the Author
+Maxime de Nanclas, COO and co-founder of Mobeewave
+Over the last 12 years, serial entrepreneur, Maxime de Nanclas has founded and guided a string of successful tech start-ups. From embedded systems to payment, Maxime has a proven track record for building thriving companies and cultivating strategic partnerships with global players.
+Before founding Mobeewave, Maxime was the CEO and founder of Nuum Design – a provider of disruptive software services. In this role he quickly took the company from zero to $2m annualized revenue and secured key customers including Nintendo, Intel and the Canadian Space Agency.
+Maxime launched his first start-up, Space Codesign Systems, in 2004. In addition to overseeing commercialization, IP licensing and product development, he played a primary role in delivering key strategic sales and partnerships, especially with international aerospace manufacturer Thales Alenia Space.
+Maxime was the driving force behind Interfrench in Canada, an entrepreneurship network and coaching service for French entrepreneurs immigrating to Canada. He has also been highly involved in a number of non-profit organizations. As a vice-president & board member of Francogenie – which helps the French engineering community in Quebec – Maxime directed marketing efforts, funding and operations for the organization. He holds an engineering degree from École Polytechnique de Nantes, France and a Master’s degree from École Polytechnique de Montréal, Canada.
+—
+About Mobeewave
+An award-winning FinTech company, Mobeewave brings balance to the mobile payment world, empowering people to securely accept contactless payment using their phones.
+www.mobeewave.com
+—
+Other Point of Sale news articles that may interest you:
+
+Story 34
+
+
+This crawler or robot has been disallowed from visting our site.
+If you feel this has been in error, please contact our webmaster
+Disallowed Crawler User Agents:
+
+Story 35
+Chargeback covers services or goods that have been paid for but not supplied. If it happens you must notify your card issuer, which will investigate the case. When it is satisfied you are entitled to reverse the transaction, it will credit your account. Because the bank has to look into the matter, it can take a couple of weeks to get the money back.
+The card issuer will then chase the merchant's bank (called the acquiring bank, in payment system jargon) to recover that money. In the card-payment world, the acquiring bank stands behind its merchant customer and has to make good when the sale of goods or services already paid for does not proceed. However, there are occasions when chargebacks do not go through. In a case such as Kleenmaid's, when a company is put into the hands of an administrator, the acquiring bank may seek a court order to prevent chargebacks being processed if it believes there has been some irregularity. The MasterCard Australia vice-president of corporate affairs, Albert Naffah, says it is rare for acquirers to go to court: "The biggest case in recent times was the collapse of the airline Ansett. Customers who had booked flights on their credit cards applied for chargebacks worth millions of dollars and National Australia Bank, which was the acquirer, honoured the chargebacks."
+And last week a spokesman for the administrator Deloitte said customers who had purchased the whitegoods on a credit card should contact their card provider for a chargeback. Card companies Visa, Amex and Mastercard were also reported saying customers should be able to get their money back. Naffah says chargeback arrangements also apply to users of debit cards but only in certain circumstances. There are two debit systems operating in Australia, Eftpos and scheme debit. Eftpos is owned and operated by the banks, while scheme debit is operated by MasterCard and Visa.
+Any consumer whose transaction card carries a MasterCard or Visa logo has access to the scheme debit system as well as to Eftpos. It gets tricky because access to the two systems is through the same card and the same point of sale terminal. If you press "credit" when you make a payment you are using scheme debit; if you press "savings" or "cheque" you are using Eftpos. Consumers who use the scheme debit system get the same protection as users of MasterCard and Visa credit cards, including chargebacks.
+It's important to note there is a time limit for notifying the card issuer if a chargeback is required. In most cases customers have 75 days, after which the issuer will not reverse the transaction. Chargebacks are not just for reversing transactions where the goods or services are not supplied. They are also used to correct duplicate billing, to fix a bank processing error or to deal with fraud in cases where customers did not authorise a purchase on their card.
+The Australian Payments Clearing Association (APCA) reports credit and charge card fraud is the fastest-growing area of payment system fraud throughout Australia. Credit and charge card fraud (involving signature permitted and card-not-present transactions) jumped from 38.6 cents to 50.2 cents for every $1000. APCA says card-not-present fraud accounts for 48 per cent of card fraud by value. These figures have prompted commentators in the financial services industry to question whether existing protection mechanisms, including chargebacks, are working properly. At a cards and payments conference in Sydney last month, the senior manager for merchant risk assessment at Westpac, David Miller, said one problem was merchants who overused chargebacks rather than making a genuine effort to verify the identity of card users.
+Miller says some merchants process transactions without worrying about whether card information is stolen, knowing they can rely on chargebacks if the transaction turns out to be fraudulent. Naffah says he has heard such comments but says there is no plan to change the way chargebacks work.
+"We have always had a zero-liability rule for consumers. If they have protected their personal details and they have not been negligent in the way they use their card, they are not going to wear the cost of a transaction that has gone wrong."
+Naffah says consumers can do more to protect their accounts. MasterCard and Visa have, for example, been promoting enhanced online authentication systems for years without strong consumer response. Lodge your claim
+* You can get a refund if the goods or services are "undelivered" or not "as described". * You can have the transaction reversed if it was not authorised by you. * Users of the scheme debit system have the same protection as users of MasterCard and Visa.
+* Consumers have up to 75 days to report a disputed transaction.
+

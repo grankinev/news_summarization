@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 381,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jonathan Watts and Niko Kommenda",
+            "title": "The Pandemic Has Led to a Huge, Global Drop in Air Pollution",
+            "description": "Reductions in traffic and industry have lowered nitrogen dioxide levels—offering an accidental glimpse into what a low-carbon future might look like.",
+            "url": "https://www.wired.com/story/the-pandemic-has-led-to-a-huge-global-drop-in-air-pollution/",
+            "urlToImage": "",
+            "publishedAt": "2020-03-28T12:00:00Z",
+            "content": "This story originally appeared in The Guardian and is part of the Climate Desk collaboration.\r\nThe coronavirus pandemic is shutting down industrial activity and temporarily slashing air pollution levels around the world, satellite imagery from the European Sp… [+3541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Essential services in BC: Full list of jobs and industries - CTV News",
+            "description": "Essential services in BC: Full list of jobs and industries CTV News B.C. defines essential services in fight against COVID-19 CBC.ca What qualifies as an essential service under B.C.’s coronavirus response? Global News View Full coverage on Google News",
+            "url": "https://bc.ctvnews.ca/essential-services-in-b-c-find-out-if-your-job-is-on-the-list-1.4871278",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4871296.1585330473!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2020-03-27T17:36:00Z",
+            "content": "VANCOUVER -- \r\nAt a time when some businesses are boarding up, others are busier than ever.\r\nMembers of the public may be confused about why some people are still working, while others are off the clock for the foreseeable future.\r\nB.C. has deemed some busine… [+9503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextavenue.org"
+            },
+            "author": "Chris Farrell",
+            "title": "Next Avenue: Why retirement is so challenging for rural Americans",
+            "description": "There are 3 major hurdles rural residents face in planning for retirement.",
+            "url": "https://www.nextavenue.org/retirement-challenges-of-rural-americans/",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-IC559_na_ret_ZG_20200318160531.jpg",
+            "publishedAt": "2020-03-27T07:59:20Z",
+            "content": "This article is reprinted by permission from NextAvenue.org.\r\nPlanning for, and financing, the retirement years isnt easy even before the economic and market turmoil from the spread of the coronavirus. But financing a secure retirement is even harder in large… [+4944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurity.org"
+            },
+            "author": "Talia Ogliore-WUSTL",
+            "title": "Genes link ‘Green Revolution’ to rice gone feral",
+            "description": "Weedy rice is the result with cultivars of the crop go rogue. New research traces their origins to the \"Green Revolution.\"",
+            "url": "https://www.futurity.org/weedy-rice-green-revolution-cultivars-2318422-2/",
+            "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2020/03/weedy_rice_1600.jpg",
+            "publishedAt": "2020-03-27T12:59:52Z",
+            "content": "Weedy rice has evolved multiple times from cultivated crops, research finds.\r\nWeedy rice is a de-domesticated form of rice that infests paddies worldwide and aggressively outcompetes cultivated varieties.\r\nThe Green Revolution was an era of technology transfe… [+3297 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Josh Gerstein",
+            "title": "Trump won’t stop American travelers, so governors do it instead",
+            "description": "The decisions could face legal challenges and have raised questions about why Trump doesn’t act himself.",
+            "url": "https://www.politico.com/news/2020/03/27/trump-governors-coronavirus-travel-shutdown-152561",
+            "urlToImage": "https://static.politico.com/c9/d1/52bb02ad424eb4237e901d8b3b41/200327-charlie-baker-gty-773.jpg",
+            "publishedAt": "2020-03-27T23:42:39Z",
+            "content": "Florida Gov. Ron DeSantis, a Republican, started the trend earlier this week, trying to discourage what he called reckless travel by sending the National Guard to Florida airports to tell inbound passengers from New York and New Jersey that they needed to sel… [+9724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rollingstone.com"
+            },
+            "author": "Peter Wade",
+            "title": "Trump Pushes to Knock Hundreds of Thousands Off Food Stamps While COVID-19 Death Toll Rises",
+            "description": "The USDA wants to remove people from food stamps regardless of the change in the employment environment from coronavirus",
+            "url": "https://www.rollingstone.com/politics/politics-news/trump-attempt-remove-hundreds-thousands-off-food-stamps-974363/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2020/03/shutterstock_editorial_6104577e.jpg",
+            "publishedAt": "2020-03-27T18:56:19Z",
+            "content": "While U.S. unemployment claims are shattering an all-time record, due to the coronavirus pandemic, President Trump’s administration is continuing its attempts to throw hundreds of thousands off the government food-stamp program, known as the Supplemental Nutr… [+2270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rollingstone.com"
+            },
+            "author": "David Fear",
+            "title": "Big Cats, Cults and Murder: Inside the Making of Netflix’s ‘Tiger King’",
+            "description": "How two documentarians turned a look into the wild life of a wildlife enthusiast into Netflix's latest big hit",
+            "url": "https://www.rollingstone.com/tv/tv-features/making-of-tiger-king-interview-netflix-972087/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2020/03/1tiger-king-making.jpg",
+            "publishedAt": "2020-03-27T18:00:12Z",
+            "content": "At the beginning of the new Netflix documentary Tiger King: Murder, Mayhem and Madness, a strip club proprietor tells the camera, “The big cat people are backstabbing pieces of shit.” The statement sounds both like nonsense and hyperbole. By the end of the se… [+9870 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rollingstone.com"
+            },
+            "author": "Chris Kobiella",
+            "title": "Zero Hour: There’s No Stopping Climate Change, But How Bad It Gets Is Still Up To Us",
+            "description": "It is more important than ever that we eliminate fossil fuels and reduce suffering in a warming world",
+            "url": "https://www.rollingstone.com/politics/politics-features/jeff-goodell-no-stopping-climate-change-966026/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2020/03/zero-hour-crossroads.jpg",
+            "publishedAt": "2020-03-27T13:00:26Z",
+            "content": "When people you love are sick and dying, it’s hard to think about anything else. In the course of just a few short weeks, the coronavirus has upended our daily lives, causing immense suffering and economic chaos around the world. It’s hard to recall (or care,… [+23621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.org"
+            },
+            "author": "Alex Whiting",
+            "title": "How Stone Age humans unlocked the glucose in plants",
+            "description": "Early cave paintings of hunting scenes may give the impression our Stone Age ancestors lived mainly on chunks of meat, but plants—and the ability to unlock the glucose inside—were just as key to their survival.",
+            "url": "https://phys.org/news/2020-03-stone-age-humans-glucose.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2020/howstoneageh.jpg",
+            "publishedAt": "2020-03-27T15:03:29Z",
+            "content": "Early cave paintings of hunting scenes may give the impression our Stone Age ancestors lived mainly on chunks of meat, but plantsand the ability to unlock the glucose insidewere just as key to their survival.\r\nPlants rich in starch helped early humans to thri… [+6507 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "PTI",
+            "title": "COVID-19 | MHA asks States to stop mass exodus of migrant workers amid lockdown",
+            "description": "The States and UTs have also been advised to make these vulnerable groups aware of measures taken by the government, including provision of free food grains and other essential items through PDS.",
+            "url": "https://www.thehindu.com/news/national/covid-19-mha-asks-states-to-stop-mass-exodus-of-migrant-workers-amid-lockdown/article31180931.ece",
+            "urlToImage": "https://www.thehindu.com/news/cities/Delhi/yh1iqc/article31176824.ece/ALTERNATES/LANDSCAPE_615/26DELPRIYAMIGRANTS",
+            "publishedAt": "2020-03-27T09:08:28Z",
+            "content": "The Union Home Ministry on Friday asked State governments to prevent a mass exodus of migrant agriculture labourers, industrial workers and unorganised sector employees from their workplaces to hometowns amid a 21-day nationwide lockdown to combat the COVID-1… [+1060 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "S. Harpal Singh",
+            "title": "Desperate times, desperate measures",
+            "description": "Lack of transport due to lockdown forces labourers to walk 100 km to reach home",
+            "url": "https://www.thehindu.com/news/national/telangana/desperate-times-desperate-measures/article31185728.ece",
+            "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+            "publishedAt": "2020-03-27T15:06:10Z",
+            "content": "Desperate times call for desperate measures. Yes, the uncertainty of reaching home in these times of lockdown, a group of dozen agriculture labourers from Maharashtra have started on a journey on foot to their home, which is 100 km away from where they were e… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Qz.com"
+            },
+            "author": "Mahemud Tekuya",
+            "title": "Colonial-era Nile river treaties are to blame for the unresolved dispute over Ethiopia’s dam",
+            "description": "Tensions have been particularly acute between Egypt and Ethiopia because more than 80% of the water reaching Egypt comes from the Blue Nile",
+            "url": "https://qz.com/africa/1827558/ethiopia-egypt-grand-dam-battle-has-roots-in-british-colonial-rule/",
+            "urlToImage": "https://cms.qz.com/wp-content/uploads/2020/03/RTX75I7J-e1585371372289.jpg?quality=75&strip=all&w=1400",
+            "publishedAt": "2020-03-28T05:03:25Z",
+            "content": "Disputes over the filling and operation of Ethiopias Grand Ethiopian Renaissance Dam have, once again, threatened security in North-East Africa.\r\nThe dama huge project on one of the River Niles main tributaries, the Blue Nile in Ethiopiais designed to generat… [+6331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itsnicethat.com"
+            },
+            "author": "Ruby Boddington",
+            "title": "León Romero is a new graphic design studio which relishes a challenge",
+            "description": "Jorge León and Mikel Romero have known each other for ten years and set up shop after realising their visions were “completely aligned”.",
+            "url": "https://www.itsnicethat.com/articles/leon-romero-graphic-design-270320",
+            "urlToImage": "https://admin.itsnicethat.com/images/1KO6on7rcQoAU_RxA8jkVXhS6vA=/182663/width-1440/leon-romero-graphic-design-itsnicethat-11.jpg",
+            "publishedAt": "2020-03-27T13:00:00Z",
+            "content": "Despite not having their look established yet, what Jorge and Mikel have worked hard at, is their process; namely, how they conceptualise projects. We are very nonconformist in this sense, Jorge tells us, and we dedicate a big part of our time finding clear a… [+2210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fool.com"
+            },
+            "author": "newsfeedback@fool.com (Leo Sun)",
+            "title": "Investors Should Pay Attention to China Mobile’s 5G Numbers",
+            "description": "China’s top telco is rapidly expanding its 5G network, but millions of subscribers vanished in February without a clear explanation.",
+            "url": "https://www.fool.com/investing/2020/03/27/investors-should-pay-attention-to-china-mobile-5g.aspx",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/565328/gettyimages-1135535759.jpg",
+            "publishedAt": "2020-03-27T13:10:00Z",
+            "content": "China Mobile's (NYSE:CHL) stock has plunged 30% over the past 12 months, as China's economic slowdown, protests in Hong Kong, and the novel coronavirus (COVID-19) outbreak all throttled its growth. Government-mandated reductions in wireless fees and the elimi… [+3745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "ENS Economic Bureau",
+            "title": "Moody’s cuts 2020 growth forecast to 2.5% from 5.3%",
+            "description": "India’s growth, however, could rebound to 5.8 per cent in 2021, while China’s may accelerate to 6 per cent, Moody’s said.",
+            "url": "https://indianexpress.com/article/business/economy/moodys-cuts-2020-growth-forecast-to-2-5-from-5-3-6335089/",
+            "urlToImage": "https://images.indianexpress.com/2020/02/moody-1.jpg?w=759",
+            "publishedAt": "2020-03-27T20:13:07Z",
+            "content": "Meanwhile, Icra, too, trimmed its growth projection to 4.2 per cent for the financial year 2020-21 from 4.4 per cent, despite the support from agriculture and government spending. (Representational Image)Moodys on Friday trimmed its growth projection for Indi… [+810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "New York Times",
+            "title": "Migrant farmworkers whose harvests feed Europe are blocked at borders",
+            "description": "Until this week, seasonal workers who could bypass travel restrictions and get to the German border would be allowed in. But on Wednesday farmers faced a further squeeze after the Interior ministry announced that Germany would ban all seasonal workers from en…",
+            "url": "https://indianexpress.com/article/coronavirus/migrant-farmworkers-whose-harvests-feed-europe-are-blocked-at-borders-6334637/",
+            "urlToImage": "https://images.indianexpress.com/2020/03/VIRUS_MIGRANT_WORKERS_5_1_759x422.jpg?w=759",
+            "publishedAt": "2020-03-27T12:31:14Z",
+            "content": "Romanian migrant workers, who arrived before the borders closed, cut asparagus on Malte VoigtsÕ farm in Kremmen, northwest of Berlin, March 25, 2020. Border lockdowns to prevent the spread of the coronavirus have immobilized legions of seasonal workers from E… [+8068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Express Web Desk",
+            "title": "Coronavirus lockdown: Prevent exodus of migrants, labourers, MHA tells states, UTs in advisory",
+            "description": "The MHA advisory also asked the state governments and UTs to make arrangements for uninterrupted supply of essential commodities to hotels, working women hostels so that they continue to live in existing facilities.",
+            "url": "https://indianexpress.com/article/coronavirus/coronavirus-lockdown-prevent-exodus-of-migrants-labourers-mha-tells-states-uts-in-advisory-6334323/",
+            "urlToImage": "https://images.indianexpress.com/2020/03/cops-1.jpg?w=759",
+            "publishedAt": "2020-03-27T09:13:20Z",
+            "content": "A Delhi constable provides hand sanitiser to a child at a slum area in Rangpuri on Thursday. (Express photo/Amit Mehra)Amid reports of a large number of migrants and labourers being hit by the 21-day nationwide lockdown in the wake of the coronavirus outbreak… [+2165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Express News Service",
+            "title": "Pune’s wholesale market to restart from April 1",
+            "description": "Operations in the city’s markets have been suspended since March 23, as traders and commission agents have decided to keep away from the trade in view of the COVID-19 pandemic, as well as the lockdown announced by Prime Minister Narendra Modi on March 23.",
+            "url": "https://indianexpress.com/article/cities/pune/coronavirus-india-lockdown-punes-wholesale-market-to-restart-from-april-1-6335022/",
+            "urlToImage": "https://images.indianexpress.com/2020/03/pune-market-759.jpg?w=759",
+            "publishedAt": "2020-03-27T17:46:10Z",
+            "content": "During the meeting on Friday, traders decided to restart their market from April 1, but how the market will function remains ambiguous. (File)indiaIn a meeting held on Friday, traders and commission agents operating in the wholesale market in Pune have decide… [+2380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Harish Damodaran",
+            "title": "Ahead: bumper crop, multiple challenges",
+            "description": "This is perhaps the first time ever that India is facing a national disaster or a war-like situation — Prime Minister Narendra Modi evoked memories of “blackout drills” in his first address on combating the novel coronavirus — amidst plentiful supplies of foo…",
+            "url": "https://indianexpress.com/article/explained/india-lockdown-coronavirus-crops-farmers-agriculture-market-6335075/",
+            "urlToImage": "https://images.indianexpress.com/2020/03/farmers-explained.jpg?w=759",
+            "publishedAt": "2020-03-27T19:33:41Z",
+            "content": "Farmers are currently about to harvest if they havent already wheat, mustard, chana (chickpea), matar (field pea), potato, onion, garlic, zeera (cumin seed), coriander, fennel, red chilli, grapes, mango, summer tomato and other seasonal fruits and vegetables.… [+5495 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rituraj Tiwari",
+            "title": "Covid-19: Centre intervenes to resume mandis across the country",
+            "description": "Apart from that, the government is also pushing through with more trading through its electronic market - e-NAM - to encourage contact less and contagion less trade in Mandi. “Both e-trading and e-payment through virtual e-NAM platform promotes social distanc…",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/covid-19-centre-intervenes-to-resume-mandis-across-the-country/articleshow/74854055.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-74854054,width-1070,height-580,imgsize-411510,overlay-economictimes/photo.jpg",
+            "publishedAt": "2020-03-27T17:44:33Z",
+            "content": "NEW DELHI: The centre has intervened to resume mandi operations across the country ensuring uninterrupted supply of fruits and vegetables. All major mandis including Lasalgaon, Latur, Vashi, Nashik and Azadpur are functional.\r\n“More than 1500 mandis have star… [+2589 chars]"
+        }
+    ]
+}

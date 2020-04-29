@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 2047,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "NVIDIA cuts its outlook by $100 million due to 2019 coronavirus",
+            "description": "NVIDIA has published its earnings report for fiscal year 2020, and in it the chipmaker has revealed how much it thinks the 2019 novel coronavirus disease (COVID-19) would affect its business. The company has reduced its revenue outlook for the first quarter o…",
+            "url": "https://www.engadget.com/2020/02/13/nvidia-cuts-outlook-coronavirus/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6761%252C4510%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F0cf75530-4ebe-11ea-abff-3742f0b0ff9d%26client%3Da1acac3e1b3290917d92%26signature%3Da5247c6d81a82e235b205dfb1a37d604a9bfc5c3&client=amp-blogside-v2&signature=3b37a032c474287d69037ff205eebaf61d7a44b6",
+            "publishedAt": "2020-02-14T02:02:00Z",
+            "content": "NVIDIA opted out of attending MWC 2020 due to coronavirus-related safety concerns before the organization behind the event decided to cancel it altogether. That's not the only tangible impact the virus has had on the industry, though. Apple had to close all i… [+804 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacqueline Howard, CNN",
+            "title": "CDC director: Novel coronavirus 'is probably with us beyond this season, beyond this year'",
+            "description": "As an outbreak of a novel coronavirus has swept through Hubei province, China, the US Centers for Disease Control and Prevention has been preparing for its worst case scenario -- a widespread outbreak of illnesses in the United States.",
+            "url": "https://www.cnn.com/2020/02/13/health/coronavirus-cdc-robert-redfield-gupta-intv/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175729-01-coronavirus-0213-super-tease.jpg",
+            "publishedAt": "2020-02-14T01:31:05Z",
+            "content": "(CNN)As an outbreak of a novel coronavirus has swept through Hubei province, China, the US Centers for Disease Control and Prevention has been preparing for its worst case scenario -- a widespread outbreak of illnessesin the United States.\r\n\"Right now we're i… [+6416 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Lufthansa Group extends China flight cancellations to March 28 over virus outbreak",
+            "description": "Germany's Lufthansa on Friday said it would suspend all flights to mainland China until March 28 due to the new coronavirus, which is spreading in China and around the world.",
+            "url": "https://www.reuters.com/article/us-china-health-lufthansa-idUSKBN2080VE",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490152999&w=1200&r=LYNXMPEG1D0PX",
+            "publishedAt": "2020-02-14T08:21:47Z",
+            "content": "BERLIN (Reuters) - Germany’s Lufthansa (LHAG.DE) on Friday said it would suspend all flights to mainland China until March 28 due to the new coronavirus, which is spreading in China and around the world. \r\n“The Lufthansa Group has now decided to cancel the fl… [+481 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Electric shock: China power demand drops as coronavirus shutters plants",
+            "description": "China's industrial power demand in 2020 may decline by as much as 73 billion kilowatt hours (kWh), according to IHS Markit, as the outbreak of the coronavirus has curtailed factory output and prevented some workers from returning to their jobs.",
+            "url": "https://www.reuters.com/article/us-china-health-power-idUSKBN2080HD",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490105713&w=1200&r=LYNXMPEG1D0FK",
+            "publishedAt": "2020-02-14T06:08:08Z",
+            "content": "BEIJING (Reuters) - China’s industrial power demand in 2020 may decline by as much as 73 billion kilowatt hours (kWh), according to IHS Markit, as the outbreak of the coronavirus has curtailed factory output and prevented some workers from returning to their … [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China says 1,716 health workers infected by coronavirus",
+            "description": "China National Health Commission Vice Minister Zeng Yixin said on Friday that 1,716 health workers have been infected by the coronavirus and six of them have died as of Tuesday.",
+            "url": "https://www.reuters.com/article/us-china-health-medics-idUSKBN2080MA",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490119669&w=1200&r=LYNXMPEG1D0IM",
+            "publishedAt": "2020-02-14T06:50:18Z",
+            "content": "BEIJING (Reuters) - China National Health Commission Vice Minister Zeng Yixin said on Friday that 1,716 health workers have been infected by the coronavirus and six of them have died as of Tuesday. \r\nZeng, at a press conference about protecting medical worker… [+320 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jiraporn Kuhakan",
+            "title": "Big love: Thai elephants, students send Valentines to virus-hit China",
+            "description": "Some 3,000 students gathered on Friday in Thailand's Ayutthaya province to send Valentine's Day well-wishes to China, which is facing an ongoing coronavirus epidemic.",
+            "url": "https://www.reuters.com/article/us-china-health-valentinesday-thailand-idUSKBN2080RP",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490140355&w=1200&r=LYNXMPEG1D0N7",
+            "publishedAt": "2020-02-14T07:47:56Z",
+            "content": "BANGKOK (Reuters) - Some 3,000 students gathered on Friday in Thailand’s Ayutthaya province to send Valentine’s Day well-wishes to China, which is facing an ongoing coronavirus epidemic. \r\n“China keep fighting,” students and teachers of Jirasat Wittaya School… [+752 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sophie Yu",
+            "title": "Solo lunches and masks: Chinese returning to work grapple with coronavirus",
+            "description": "Chinese government employee Jin Yang returned to work in Beijing this week to find his usual workplace rules upended as China battles a coronavirus epidemic.",
+            "url": "https://www.reuters.com/article/us-china-health-work-idUSKBN20810Q",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490177030&w=1200&r=LYNXMPEG1D0T2",
+            "publishedAt": "2020-02-14T09:24:12Z",
+            "content": "BEIJING/SHANGHAI (Reuters) - Chinese government employee Jin Yang returned to work in Beijing this week to find his usual workplace rules upended as China battles a coronavirus epidemic. \r\nHis office has banned the practice of eating lunch in its canteen with… [+3089 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hideyuki Sano",
+            "title": "Shares step back as hopes of early end to coronavirus fade",
+            "description": "Global shares eased on Friday, as investors were spooked by a sharp rise in the number of coronavirus cases in China this week while oil prices extended gains on hopes of more production cuts.",
+            "url": "https://www.reuters.com/article/us-global-markets-idUSKBN20804H",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490011363&w=1200&r=LYNXMPEG1D04M",
+            "publishedAt": "2020-02-14T01:13:29Z",
+            "content": "TOKYO (Reuters) - Global shares eased on Friday, as investors were spooked by a sharp rise in the number of coronavirus cases in China this week while oil prices extended gains on hopes of more production cuts. \r\nMSCI's broadest index of Asia-Pacific shares o… [+3129 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: Coronavirus forces delay of trade fairs and conferences",
+            "description": "Over two dozen large trade fairs and industry conferences in China and overseas have been postponed due to travel curbs and concerns about the spread of the 2019 coronavirus, potentially disrupting billions of dollars' worth of deals.",
+            "url": "https://www.reuters.com/article/us-china-health-events-factbox-idUSKBN20808N",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490041664&w=1200&r=LYNXMPEG1D08K",
+            "publishedAt": "2020-02-14T02:41:03Z",
+            "content": "(Reuters) - Over two dozen large trade fairs and industry conferences in China and overseas have been postponed due to travel curbs and concerns about the spread of the 2019 coronavirus, potentially disrupting billions of dollars’ worth of deals. \r\nIn order o… [+4411 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun",
+            "title": "Coronavirus cases in China epicenter fall, cruise ship disembarks in Cambodia",
+            "description": "The death toll from a coronavirus outbreak in China's Hubei province rose by 116 on Friday, health officials said, less than half the number of deaths from the day before, when Japan reported its first fatality.",
+            "url": "https://www.reuters.com/article/us-china-health-idUSKBN20804J",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490012175&w=1200&r=LYNXMPEG1D04Z",
+            "publishedAt": "2020-02-14T01:14:56Z",
+            "content": "BEIJING/TOKYO (Reuters) - The death toll from a coronavirus outbreak in China’s Hubei province rose by 116 on Friday, health officials said, less than half the number of deaths from the day before, when Japan reported its first fatality. \r\nHubei province’s he… [+4272 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China urges U.S. to stop suppressing Chinese companies after Huawei indictment",
+            "description": "China's foreign ministry said on Friday it urges the United States to immediately stop suppressing Chinese companies without reason, after U.S. prosecutors unveiled a new indictment against Huawei Technologies.",
+            "url": "https://www.reuters.com/article/us-usa-huawei-tech-indictment-china-idUSKBN2080QT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-14T07:38:38Z",
+            "content": "BEIJING (Reuters) - China’s foreign ministry said on Friday it urges the United States to immediately stop suppressing Chinese companies without reason, after U.S. prosecutors unveiled a new indictment against Huawei Technologies. \r\nSuch actions by the United… [+456 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: Sport-events affected by coronavirus epidemic",
+            "description": "Here is a list of international sports events whose timing has been affected by a coronavirus outbreak that has killed more than 1,300 people and infected more than 60,000 in China after emerging late last year in Wuhan, the capital of central Hubei province:",
+            "url": "https://www.reuters.com/article/us-china-health-sport-factbox-idUSKBN2080EV",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490089475&w=1200&r=LYNXMPEG1D0DO",
+            "publishedAt": "2020-02-14T05:13:26Z",
+            "content": "(Reuters) - Here is a list of international sports events whose timing has been affected by a coronavirus outbreak that has killed more than 1,300 people and infected more than 60,000 in China after emerging late last year in Wuhan, the capital of central Hub… [+4077 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andrew Hay",
+            "title": "Fake flyers and face-mask fear: California fights coronavirus discrimination",
+            "description": "A flyer in Los Angeles' Carson area, with a fake seal of the World Health Organization, tells residents to avoid Asian-American businesses like Panda Express because of a coronavirus outbreak. A Los Angeles middle schooler is beaten and hospitalized after stu…",
+            "url": "https://www.reuters.com/article/us-china-health-usa-discrimination-idUSKBN208063",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490020189&w=1200&r=LYNXMPEG1D05Z",
+            "publishedAt": "2020-02-14T01:39:24Z",
+            "content": "(Reuters) - A flyer in Los Angeles’ Carson area, with a fake seal of the World Health Organization, tells residents to avoid Asian-American businesses like Panda Express because of a coronavirus outbreak. A Los Angeles middle schooler is beaten and hospitaliz… [+3505 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Vietnam says monitoring over 5,000 Chinese workers for coronavirus",
+            "description": "Vietnam is monitoring more than 5,000 workers who returned to the Southeast Asian country after the Lunar New Year holiday for signs of coronavirus, state media reported on Friday.",
+            "url": "https://www.reuters.com/article/us-china-health-vietnam-idUSKBN2081AG",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200214&t=2&i=1490208322&w=1200&r=LYNXMPEG1D0X3",
+            "publishedAt": "2020-02-14T10:48:46Z",
+            "content": "HANOI (Reuters) - Vietnam is monitoring more than 5,000 workers who returned to the Southeast Asian country after the Lunar New Year holiday for signs of coronavirus, state media reported on Friday. \r\nOn Thursday, Communist-ruled Vietnam quarantined a rural c… [+912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Androidcentral.com"
+            },
+            "author": "Babu Mohan",
+            "title": "iQOO 3 5G India launch set for February 25",
+            "description": "The flagship phone is said to offer several \"industry-leading\" features. What you need to know The iQOO 3 5G has been confirmed to launch in India on February 25. Vivo's iQOO sub-brand will be launching the phone on the same day in China as well. iQOO 3 5G wi…",
+            "url": "https://www.androidcentral.com/iqoo-3-5g-india-launch-set-february-25",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/iqoo-3-5g.jpg?itok=PaUofFUD",
+            "publishedAt": "2020-02-14T11:20:33Z",
+            "content": "Earlier this week, Vivo's iQOO sub-brand had announced on Weibo that it would launch the iQOO 3 5G at an online-only event in China on February 25. The company's Indian arm has now confirmed that the 5G-enabled flagship phone will be launched in the world's s… [+1269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Androidcentral.com"
+            },
+            "author": "Babu Mohan",
+            "title": "OPPO Reno 3 Pro with 44MP dual selfie cameras to launch in India on March 2",
+            "description": "Unlike the Chinese variant, the global Reno 3 Pro will not be 5G-enabled. What you need to know OPPO has confirmed that the Reno 3 Pro will launch in India on March 2. The Reno 3 Pro heading to India will be slightly different compared to the Reno 3 Pro launc…",
+            "url": "https://www.androidcentral.com/oppo-reno-3-pro-44mp-dual-selfie-cameras-launch-india-march-2",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/oppo-reno-3-pro-teaser.jpg?itok=RSNnnwf6",
+            "publishedAt": "2020-02-14T08:14:33Z",
+            "content": "Chinese smartphone maker OPPO had recently teased the launch of the Reno 3 Pro in the Indian market. The company today announced that the phone will debut in India at an event in New Delhi on March 2. Surprisingly, however, the India-bound Reno 3 Pro will not… [+955 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "salarshani@businessinsider.com (Sarah Al-Arshani), Sarah Al-Arshani",
+            "title": "Pet owners are rushing to buy face masks for their pets though it's unclear if our furry friends can get the novel coronavirus",
+            "description": "Doug Perez via AP Pet owners are rushing to buy face masks for their furry companions over fears they could catch COVID-19 virus. The World Health Organization said their is no evidence to suggest pets can catch the virus, however, one expert in China believe…",
+            "url": "https://www.businessinsider.com/people-buy-face-masks-for-pets-over-covid-19-fears-2020-2",
+            "urlToImage": "https://i.insider.com/5e462f992dae5c43f969e033?width=1200&format=jpeg",
+            "publishedAt": "2020-02-14T05:30:21Z",
+            "content": "Sales of face masks for pets have gone up due to the COVID-19 virus outbreak, but how likely it is that furry friends will be infected with the virus is still unclear.\r\nWhile the World Health Organization has previously stated that there is no evidence that w… [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "abendix@businessinsider.com (Aria Bendix), Aria Bendix",
+            "title": "China is diagnosing coronavirus patients by looking for 'ground glass' in their lungs. Take a look at the CT scans.",
+            "description": "Associated Press Chinese authorities have started diagnosing coronavirus cases in the Hubei province via CT scans. The scans aren't as thorough as a blood tests, but doctors in Wuhan, where the virus originated, are reportedly running short on test kits. To d…",
+            "url": "https://www.businessinsider.com/china-coronavirus-diagnosis-ct-scans-lungs-2020-2",
+            "urlToImage": "https://i.insider.com/5e34b29d5bc79c0ebe5e0da4?width=1200&format=jpeg",
+            "publishedAt": "2020-02-14T00:32:00Z",
+            "content": "Authorities in China's Hubei province reported a dramatic spike in coronavirus cases on Thursday: 14,840 new cases.\r\nIt was most reported in a single day since the outbreak began in December. The Hubei Health Commission also reported that an additional 242 pe… [+1001 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Al-Arshani",
+            "title": "A nurse in Wuhan walks to work while her husband drives behind her, showing the extreme the lengths that medical workers are willing to go to stop the coronavirus spread",
+            "description": "A Wuhan nurse has quarantined herself away from her family so she doesn't risk exposing them to the new COVID-19 virus, CGTN, a state-linked station in China reported. The woman's husband drives behind her as she walks to work ar 3:00 a.m. to light the path w…",
+            "url": "https://www.businessinsider.com/husband-lights-path-for-wife-to-walk-work-wuhan-hospital-2020-2",
+            "urlToImage": "https://i.insider.com/5e4621aa3b62b73b1c506383?width=1200&format=jpeg",
+            "publishedAt": "2020-02-14T04:23:19Z",
+            "content": "A nurse working in Wuhan, China, the epicenter of the COVID-19 virus outbreak has quarantined herself so she does not potentially expose her family to the novel coronavirus, the Shanghaiist wrote.\r\nCGTN, or China Global Television Network, a state-linked medi… [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalnews.ca"
+            },
+            "author": "Yilei Sun and Prak Chan Thul",
+            "title": "China reports 5,000 new COVID-19 cases, cruise ship passengers disembark in Cambodia - Global News",
+            "description": "China reports 5,000 new COVID-19 cases, cruise ship passengers disembark in Cambodia Global News China coronavirus deaths and cases spike - BBC News BBC News Almost 6,000 more coronavirus cases reported in China CBC.ca Coronavirus cases rise to more than 64,0…",
+            "url": "http://globalnews.ca/news/6549659/coronavirus-cases-china-cambodia-cruise-ship/",
+            "urlToImage": "https://shawglobalnews.files.wordpress.com/2020/02/2020-02-14t010427z_2131777831_rc210f905htb_rtrmadp_3_china-health-cambodia-cruiseship.jpg?quality=70&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2020-02-14T03:23:14Z",
+            "content": "BEIJING/SIHANOUKVILLE, Cambodia — China’s coronavirus outbreak showed no sign of peaking with health authorities on Friday reporting more than 5,000 new cases, while passengers on a cruise ship blocked from five countries due to virus fears finally disembarke… [+6243 chars]"
+        }
+    ]
+}

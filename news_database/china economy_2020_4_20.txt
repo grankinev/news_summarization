@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 538,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": "Paul Weber and Frank Jordans",
+            "title": "U.S. governors feel heat to reopen from protesters, president - CTV News",
+            "description": "<ol><li>U.S. governors feel heat to reopen from protesters, president  CTV News\r\n</li><li>Texas, Vermont to open some businesses Monday, Trump says  CBC.ca\r\n</li><li>Growing protests in US call for lifting state lockdowns  Al Jazeera English\r\n</li><li>Trump s…",
+            "url": "https://www.ctvnews.ca/health/coronavirus/u-s-governors-feel-heat-to-reopen-from-protesters-president-1.4901979",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4901983.1587208559!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2020-04-19T00:53:00Z",
+            "content": "BERLIN -- \r\nStores in Texas can soon begin selling merchandise with curbside service, and hospitals can resume nonessential surgeries. In Florida, people are returning to a few beaches and parks. And protesters are clamouring for more.\r\nGovernors eager to re"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "llopez@businessinsider.com (Linette Lopez), Linette Lopez",
+            "title": "Donald Trump is leaving states high and dry, and it's a sign his coronavirus response is getting worse",
+            "description": "Mike Groll/AP Photo\n<ul>\n<li>Trump is leaving states to do the heavy lifting in the fight against coronavirus, while denying them funding to do so.</li>\n<li>I shouldn't have to say how ridiculous that is, but here we are.</li>\n<li>The decision proves that Tru…",
+            "url": "https://www.businessinsider.com/trump-treatment-state-governors-governments-coronavirus-response-getting-worse-2020-4",
+            "urlToImage": "https://i.insider.com/5e9a236a29d6d90e477f8c16?width=1200&format=jpeg",
+            "publishedAt": "2020-04-19T12:26:00Z",
+            "content": "Business Insider\r\nTo bring their populations out of what is essentially hiding from the coronavirus, hard hit states will need to ramp up testing, establish contact tracing, implement measures like temperature checks in public spaces, and continue to manage "
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailyhive.com"
+            },
+            "author": "Kenneth Chan",
+            "title": "T&T Supermarket to provide temperature checks before store entry | Dished - Daily Hive",
+            "description": "<ol><li>T&T Supermarket to provide temperature checks before store entry | Dished  Daily Hive\r\n</li><li>T&T Supermarket to offer temperature checks for customers in most stores  Global News\r\n</li><li>View Full coverage on Google News</li></ol>",
+            "url": "https://dailyhive.com/vancouver/tnt-supermarket-temperature-checks",
+            "urlToImage": "https://images.dailyhive.com/20200418195629/tnt-supermarket-temperature-check-coronavirus-1-500x258.jpg",
+            "publishedAt": "2020-04-19T03:19:00Z",
+            "content": "COVID-19 continues to prompt grocery stores to change the way they operate to protect customers and their employees.\r\nThe latest new measure being taken by a major grocery store chain in Canada is a temperature check service. T&amp;T Supermarket says it will"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": "Reuters",
+            "title": "Latest on the spread of the coronavirus around the world",
+            "description": "* Governors in U.S. states hardest hit by the novel coronavirus sparred with President Donald Trump over his claims they have enough tests and should quickly reopen their economies as more protests are planned over the extension of stay-at-home orders. * The …",
+            "url": "https://news.yahoo.com/latest-spread-coronavirus-around-world-132751464.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kiWt6a4PdEDB8fm6GROWyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/KckighpaxO_8p8wPoeJgnA--~B/aD02MDA7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/b16345244816b5926af0ca5c1c9fb559",
+            "publishedAt": "2020-04-19T13:27:51Z",
+            "content": "(Reuters) - Reported cases of the coronavirus have crossed 2.33 million globally and 159,818 people have died, according to a Reuters tally as of 1800 GMT on Sunday.\r\nDEATHS AND INFECTIONS\r\n* For an interactive graphic tracking the global spread, open https:"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalnews.ca"
+            },
+            "author": "Bill Graveland",
+            "title": "Baby boom to breakups: Here’s how COVID-19 is testing relationships - Global News",
+            "description": "<ol><li>Baby boom to breakups: Here’s how COVID-19 is testing relationships  Global News\r\n</li><li>Is the COVID-19 baby boom a myth? How relationships might be tested during the pandemic  CTV News\r\n</li><li>‘We’re the pioneers’: Survivors of COVID-19 share th…",
+            "url": "http://globalnews.ca/news/6838914/coronavirus-baby-boom/",
+            "urlToImage": "https://shawglobalnews.files.wordpress.com/2020/03/1000-1-1.jpeg?quality=70&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2020-04-19T13:08:17Z",
+            "content": "As Canadians face the possibility of being alone with their significant other for the foreseeable future due to the novel coronavirus outbreak, some say marital discord is more likely than the kind of intimacy that would lead to a baby boom nine months from "
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "'Coronavirus is the biggest low in my career'",
+            "description": "How designer Roksanda Ilincic is adapting her business during the coronavirus lockdown.",
+            "url": "https://www.bbc.co.uk/news/business-52189121",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/920F/production/_111819373_ede94b41-58e6-4d57-8ce2-c0374cf88c2e.jpg",
+            "publishedAt": "2020-04-19T23:01:42Z",
+            "content": "Image copyrightNathan Pask @ Kayte Ellis AgencyImage caption\r\n Roksanda Ilincic has dressed some of the world's most famous women\r\nThe BBC's weekly The Boss series profiles different business leaders from around the world. This week we speak to UK-based Serb"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rollingstone.com"
+            },
+            "author": "Peter Wade",
+            "title": "Trump Pushes Narrative That China Was ‘Knowingly Responsible’ for Coronavirus",
+            "description": "“Was it a mistake that got out of control, or was it done deliberately?” the president said",
+            "url": "https://www.rollingstone.com/politics/politics-news/trump-pushes-narrative-china-knowingly-responsible-for-coronavirus-986629/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2020/04/shutterstock_editorial_10604916i.jpg",
+            "publishedAt": "2020-04-19T17:33:17Z",
+            "content": "President Trump took a question about possible ramifications for China if it were clear that their mishandling of the coronavirus crisis affected other countries and turned it into an opportunity to raise the specter that China may have been “knowingly respo"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "Gold falls on firm dollar, US economy re-open hopes",
+            "description": "U.S. gold futures slipped 0.7% to $1,687.20.",
+            "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-on-firm-dollar-us-economy-re-open-hopes/articleshow/75242596.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-75242632,width-1070,height-580,imgsize-570279,overlay-etmarkets/photo.jpg",
+            "publishedAt": "2020-04-20T03:30:10Z",
+            "content": "Gold prices fell to a more than one-week low on Monday as the dollar firmed and as investors remained optimistic that the U.S. economy might reopen soon from lockdowns that were enforced to contain the novel coronavirus' spread.\r\nFUNDAMENTALSSpot gold fell 0"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fool.com"
+            },
+            "author": "newsfeedback@fool.com (Jeremy Bowman)",
+            "title": "Here's What XPO Logistics Expects From the Coronavirus Crisis",
+            "description": "XPO Logistics' CEO shared his thoughts on the current economy in a letter to shareholders.",
+            "url": "https://www.fool.com/investing/2020/04/19/heres-what-xpo-logistics-expects-from-the-coronavi.aspx",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/568294/xpo-logistics.jpg",
+            "publishedAt": "2020-04-19T22:04:00Z",
+            "content": "Like much of the stock market, shares of XPO Logistics (NYSE:XPO) have been hammered during the coronavirus crisis, down about 45% since Feb. 21. Demand for logistics and transportation services is closely tied to the overall economy, and with a broad range "
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Shyam Saran",
+            "title": "Virus and one-party state",
+            "description": "Beijing’s response to Covid underlines that the world needs more democracy, not less.",
+            "url": "https://indianexpress.com/article/opinion/columns/china-coronavirus-cases-deaths-covid-19-pandemic-who-shyam-saran-6369938/",
+            "urlToImage": "https://images.indianexpress.com/2020/04/china-12.jpg?w=759",
+            "publishedAt": "2020-04-19T21:30:24Z",
+            "content": "Written by Shyam Saran\r\n | \r\nPublished: April 20, 2020 3:00:24 am\r\nPassengers wearing masks and covered with plastic bags walk outside the Shanghai railway station in Shanghai, China. (Reuters/File)There is a desperate effort on the part of China to erase it"
+        }
+    ]
+}
